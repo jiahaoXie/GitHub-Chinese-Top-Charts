@@ -1,54 +1,65 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2022-12-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer)|Color palette package in R inspired by works at the Metropolitan Museum of Art in New York|713|2022-07-28|
-|2|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|539|2022-07-11|
-|3|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|387|2022-08-05|
-|4|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|378|2022-08-06|
-|5|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|237|2022-06-19|
-|6|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|166|2022-07-26|
-|7|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|142|2022-08-06|
-|8|[feddelegrand7/ralger](https://github.com/feddelegrand7/ralger)|ralger makes it easy to scrape a website. Built on the shoulders of titans: rvest, xml2. |140|2022-06-18|
-|9|[ShichenXie/scorecard](https://github.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|139|2022-07-30|
-|10|[colearendt/tidyjson](https://github.com/colearendt/tidyjson)|Tidy your JSON data in R with tidyjson|136|2022-07-13|
-|11|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|117|2022-07-28|
-|12|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|102|2022-08-02|
-|13|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|📦 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|100|2022-06-27|
-|14|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|86|2022-08-04|
-|15|[ropensci/UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)|:package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/|73|2022-06-20|
-|16|[hope-data-science/tidyfst](https://github.com/hope-data-science/tidyfst)|Tidy Verbs for Fast Data Manipulation|70|2022-08-01|
-|17|[zhjx19/tidyverse120](https://github.com/zhjx19/tidyverse120)|玩转数据处理120题—R语言tidyverse版本|52|2022-07-22|
-|18|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|46|2022-07-08|
-|19|[koheiw/LSX](https://github.com/koheiw/LSX)|A word embeddings-based semi-supervised model for document scaling|43|2022-07-27|
-|20|[koheiw/seededlda](https://github.com/koheiw/seededlda)|Semisupervided LDA for theory-driven text analysis|41|2022-07-27|
-|21|[Wytamma/GISAIDR](https://github.com/Wytamma/GISAIDR)|Programmatically interact with the GISAID database.|34|2022-07-30|
-|22|[ahb108/rcarbon](https://github.com/ahb108/rcarbon)|Methods for calibrating and analysing radiocarbon dates|32|2022-07-21|
-|23|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|31|2022-07-18|
-|24|[skgrange/rmweather](https://github.com/skgrange/rmweather)|Tools to Conduct Meteorological Normalisation on Air Quality Data|31|2022-07-26|
-|25|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|25|2022-07-26|
-|26|[majianthu/copent](https://github.com/majianthu/copent)|R package for estimating copula entropy (mutual information) and transfer entropy (conditional independence)|24|2022-07-08|
-|27|[CBIIT/LDlinkR](https://github.com/CBIIT/LDlinkR)|LDlinkR|24|2022-08-01|
-|28|[msberends/cleaner](https://github.com/msberends/cleaner)|Fast and Easy Data Cleaning (in R)|23|2022-06-24|
-|29|[ropensci/restez](https://github.com/ropensci/restez)|:sleeping: :open_file_folder: Create and Query a Local Copy of GenBank in R|23|2022-07-29|
-|30|[JiaxiangBU/phv](https://github.com/JiaxiangBU/phv)|光伏短期功率预测大赛 代码|22|2022-07-02|
-|31|[yukiyanai/quant-methods-R](https://github.com/yukiyanai/quant-methods-R)|Repository for "Quantitative Methods in Political Science Using R" by Masahiko Asano and Yuki Yanai|17|2022-08-01|
-|32|[IshidaMotohiro/TextMining](https://github.com/IshidaMotohiro/TextMining)|-|16|2022-08-06|
-|33|[fragla/eq5d](https://github.com/fragla/eq5d)|-|14|2022-08-03|
-|34|[yufree/datadown](https://github.com/yufree/datadown)|数据分析残卷|13|2022-08-01|
-|35|[jirotubuyaki/ThunderBayesR](https://github.com/jirotubuyaki/ThunderBayesR)|An R Package for Bayesian Nonparametric  Clustering|13|2022-06-30|
-|36|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|12|2022-07-28|
-|37|[DongqiangZeng0808/Blasso](https://github.com/DongqiangZeng0808/Blasso)|Integrating LASSO and bootstrapping algorithm to find best prognostic or predictive biomarkers|11|2022-07-14|
-|38|[KateHyoung/UTDEventData](https://github.com/KateHyoung/UTDEventData)|An R package to retrieve  political event data from the UTD API server|11|2022-07-12|
-|39|[sascha2schroeder/popEye](https://github.com/sascha2schroeder/popEye)|An R package to analyze eye-tracking data from reading experiments|10|2022-08-01|
-|40|[helixcn/plantlist](https://github.com/helixcn/plantlist)|Checking Status of Plant Names based on The Plantlist and More|9|2022-08-02|
-|41|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|8|2022-07-13|
-|42|[onlybugs/RforBioInfo](https://github.com/onlybugs/RforBioInfo)|生物信息学的画图代码|5|2022-07-13|
-|43|[lcpmgh/Journal](https://github.com/lcpmgh/Journal)|学术期刊质量查询系统|5|2022-07-17|
-|44|[cosname/uploads](https://github.com/cosname/uploads)|网站的一些上传文件|3|2022-07-26|
+|1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1763|2024-07-22|
+|2|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|1021|2024-07-26|
+|3|[haozhu233/kableExtra](https://github.com/haozhu233/kableExtra)|Construct Complex Table with knitr::kable() + pipe. |681|2024-07-10|
+|4|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|603|2024-07-27|
+|5|[DiskFrame/disk.frame](https://github.com/DiskFrame/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|594|2024-02-05|
+|6|[massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix)|An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.|488|2024-07-02|
+|7|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|278|2024-04-19|
+|8|[wilkox/treemapify](https://github.com/wilkox/treemapify)|🌳 Draw treemaps in ggplot2|213|2024-06-15|
+|9|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|185|2024-07-28|
+|10|[nanxstats/liftr](https://github.com/nanxstats/liftr)|🐳 Containerize R Markdown documents for continuous reproducibility|170|2024-03-11|
+|11|[ShichenXie/scorecard](https://github.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|159|2024-04-13|
+|12|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|📦 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|157|2024-06-16|
+|13|[feddelegrand7/ralger](https://github.com/feddelegrand7/ralger)|ralger makes it easy to scrape a website. Built on the shoulders of titans: rvest, xml2. |155|2024-07-16|
+|14|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|146|2024-03-18|
+|15|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|144|2024-05-22|
+|16|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|140|2024-06-07|
+|17|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008).|138|2024-07-27|
+|18|[quanteda/readtext](https://github.com/quanteda/readtext)|an R package for reading text files|118|2024-02-27|
+|19|[TullyMonster/MendelRookie](https://github.com/TullyMonster/MendelRookie)|新手友好的孟德尔随机化项目|108|2024-04-26|
+|20|[wu-yc/scMetabolism](https://github.com/wu-yc/scMetabolism)|Quantifying metabolism activity at the single-cell resolution|101|2024-02-08|
+|21|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|99|2024-07-23|
+|22|[hope-data-science/tidyfst](https://github.com/hope-data-science/tidyfst)|Tidy Verbs for Fast Data Manipulation|96|2024-06-14|
+|23|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/; Book: https://lishensuo.github.io/UCSCXenaShiny_Book; App online: https://shiny.hiplot.cn/ucsc-xena-shiny/, htt ...|83|2024-07-28|
+|24|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|76|2024-07-24|
+|25|[ykang/gratis](https://github.com/ykang/gratis)|GRATIS: GeneRAting TIme Series with diverse and controllable characteristics|76|2024-04-08|
+|26|[koheiw/seededlda](https://github.com/koheiw/seededlda)|LDA for semisupervised topic modeling|71|2024-06-29|
+|27|[Wytamma/GISAIDR](https://github.com/Wytamma/GISAIDR)|Programmatically interact with the GISAID database.|68|2024-02-01|
+|28|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|64|2024-07-02|
+|29|[koheiw/newsmap](https://github.com/koheiw/newsmap)|Semi-supervised algorithm for geographical document classification|58|2024-06-11|
+|30|[walkerke/idbr](https://github.com/walkerke/idbr)|An R interface to the US Census Bureau International Data Base API|58|2024-07-28|
+|31|[koheiw/LSX](https://github.com/koheiw/LSX)|Semi-supervised algorithm for document scaling|55|2024-07-23|
+|32|[CBIIT/LDlinkR](https://github.com/CBIIT/LDlinkR)|LDlinkR|53|2024-04-17|
+|33|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|52|2024-07-02|
+|34|[skgrange/rmweather](https://github.com/skgrange/rmweather)|Tools to Conduct Meteorological Normalisation on Air Quality Data|45|2024-06-05|
+|35|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |43|2024-07-24|
+|36|[majianthu/copent](https://github.com/majianthu/copent)|R package for estimating copula entropy (mutual information), transfer entropy (conditional mutual information), and the statistic for multivariate normality test and two-sample test|40|2024-06-07|
+|37|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|40|2024-06-17|
+|38|[zumbov2/deeplr](https://github.com/zumbov2/deeplr)|An R wrapper for the DeepL Translator API|39|2024-03-28|
+|39|[gee-hydro/gee_whittaker_kong2019_validation](https://github.com/gee-hydro/gee_whittaker_kong2019_validation)|Non-parametric weighted Whittaker smoothing|32|2024-04-11|
+|40|[gesistsa/sweater](https://github.com/gesistsa/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|27|2024-06-19|
+|41|[ropensci/restez](https://github.com/ropensci/restez)|:sleeping: :open_file_folder: Create and Query a Local Copy of GenBank in R|25|2024-04-19|
+|42|[davidycliao/legisTaiwan](https://github.com/davidycliao/legisTaiwan)|legisTaiwan: An Interface to Access Taiwan Legislative API in R 台灣立法院國會系統 API |23|2024-02-25|
+|43|[sascha2schroeder/popEye](https://github.com/sascha2schroeder/popEye)|An R package to analyze eye-tracking data from reading experiments|21|2024-05-01|
+|44|[fragla/eq5d](https://github.com/fragla/eq5d)|-|20|2024-07-24|
+|45|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|20|2024-03-19|
+|46|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|20|2024-02-16|
+|47|[ECMWFCode4Earth/UNSEEN-open](https://github.com/ECMWFCode4Earth/UNSEEN-open)|An open, reproducible and transferable workflow to assess and anticipate climate extremes beyond the observed record|17|2024-04-01|
+|48|[koheiw/marimo](https://github.com/koheiw/marimo)|A multi-lingual stopwords lists|15|2024-07-22|
+|49|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|15|2024-07-09|
+|50|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|15|2024-04-29|
+|51|[Crazzy-Rabbit/Rscript-to-anaylise-and-visualize](https://github.com/Crazzy-Rabbit/Rscript-to-anaylise-and-visualize)|一些用于画图的R脚本|11|2024-05-28|
+|52|[lcpmgh/NPMCM](https://github.com/lcpmgh/NPMCM)|中国研究生数学建模竞赛获奖数据及可视化分析|11|2024-03-07|
+|53|[ayueme/machine_learning_base_r](https://github.com/ayueme/machine_learning_base_r)|R语言实战机器学习|8|2024-05-05|
+|54|[caf-ifrit/forestat](https://github.com/caf-ifrit/forestat)|forestat: Forest Carbon Sequestration and Potential Productivity Calculation 森林碳汇计量和潜力计算|8|2024-02-20|
+|55|[tanchangde/tinyScripts](https://github.com/tanchangde/tinyScripts)|小 jio 本|5|2024-03-03|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

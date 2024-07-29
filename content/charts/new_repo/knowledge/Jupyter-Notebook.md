@@ -1,34 +1,46 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Jupyter Notebook
-<sub>数据更新: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui)|Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术|1275|2022-07-04|2021-10-10|
-|2|[virginiakm1988/ML2022-Spring](https://github.com/virginiakm1988/ML2022-Spring)|**Official** 李宏毅 (Hung-yi Lee) 機器學習 Machine Learning 2022 Spring|376|2022-05-05|2022-02-20|
-|3|[shibing624/nlp-tutorial](https://github.com/shibing624/nlp-tutorial)|自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。|104|2022-05-07|2021-08-06|
-|4|[fanfansann/fanfan-deep-learning-note](https://github.com/fanfansann/fanfan-deep-learning-note)|《繁凡的深度学习笔记》代码、PDF文件仓库|77|2022-02-15|2021-10-20|
-|5|[AccumulateMore/CPlusPlus](https://github.com/AccumulateMore/CPlusPlus)|最全面的 C++ 笔记|56|2022-07-23|2021-08-07|
-|6|[xieliaing/CausalInferenceIntro](https://github.com/xieliaing/CausalInferenceIntro)|Causal Inference for the Brave and True的中文翻译版。全部代码基于Python，适用于计量经济学、量化社会学、策略评估等领域。英文版原作者：Matheus Facure|48|2022-04-16|2021-11-07|
-|7|[datawhalechina/hands-dirty-nlp](https://github.com/datawhalechina/hands-dirty-nlp)|本课程面对具有一定机器学习基础，但尚未入门的NLPer或经验尚浅的NLPer，尽力避免陷入繁琐枯燥的公式讲解中，力求用代码展示每个模型背后的设计思想，同时也会带大家梳理每个模块下的技术演变，做到既知树木也知森林。|41|2022-02-19|2021-12-15|
-|8|[zui0711/Z-Lab](https://github.com/zui0711/Z-Lab)|Z Lab数据实验室开源代码汇总|39|2022-06-26|2021-12-30|
-|9|[bcaso/Computer-Science-Whitelist](https://github.com/bcaso/Computer-Science-Whitelist)|Google 搜索结果中垃圾站点越来越多，于是这个白名单就这么出来了。|31|2022-07-25|2021-11-10|
-|10|[lvyufeng/d2l-mindspore](https://github.com/lvyufeng/d2l-mindspore)|《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。|20|2022-02-02|2021-10-28|
-|11|[raymondlo84/openvino-paddlepaddle-demo](https://github.com/raymondlo84/openvino-paddlepaddle-demo)|This repository provides examples of PaddlePaddle and OpenVINO integration. |17|2022-03-15|2021-08-13|
-|12|[ForeverHaibara/Fudan-Courses](https://github.com/ForeverHaibara/Fudan-Courses)|Personal Notes for Courses in School of Data Science, Fudan University. 复旦大学数据科学与大数据技术专业（复旦大数据）学习笔记。|16|2022-07-22|2021-12-11|
-|13|[Dreaming-future/Pytorch-Image-Classification](https://github.com/Dreaming-future/Pytorch-Image-Classification)|用于pytorch的图像分类，包含多种模型方法，比如AlexNet，VGG，GoogleNet，ResNet，DenseNet等等，包含可完整运行的代码。除此之外，也有colab的在线运行代码，可以直接在colab在线运行查看结果。也可以迁移到自己的数据集进行迁移学习。|15|2022-05-09|2021-09-08|
-|14|[chenxingphh/python_grammar](https://github.com/chenxingphh/python_grammar)|Python的基础语法学习|15|2022-05-14|2021-08-29|
-|15|[rice0208/calculus](https://github.com/rice0208/calculus)|一篇可能不求甚解，但是初中生也能看懂的微积分教程。|14|2022-04-04|2022-03-29|
-|16|[AccumulateMore/Python](https://github.com/AccumulateMore/Python)|最全面的 Python 笔记|14|2022-05-07|2022-01-16|
-|17|[AccumulateMore/CV](https://github.com/AccumulateMore/CV)|最全面的 CV 笔记|12|2022-07-31|2022-03-31|
-|18|[yaoweizhang/LHY2022-SPRING](https://github.com/yaoweizhang/LHY2022-SPRING)|李宏毅（Hung-yi Lee) 2022年春季机器学习课程，包括课件和作业，|12|2022-06-14|2022-02-14|
-|19|[peanutzhen/JnuCS](https://github.com/peanutzhen/JnuCS)|⚡️暨南大学计算机系课程设计/作业/实验资源|11|2022-07-25|2021-12-15|
-|20|[qiwsir/MML](https://github.com/qiwsir/MML)|《机器学习数学基础》源码|9|2022-07-15|2022-05-31|
-|21|[W-caner/ML_class](https://github.com/W-caner/ML_class)|学堂在线《机器学习》实验课by张敏老师|9|2022-07-30|2022-05-23|
-|22|[JunyaoHu/CUMT_StudyFiles](https://github.com/JunyaoHu/CUMT_StudyFiles)|本科课程资料|9|2022-07-09|2022-01-13|
-|23|[jaheel/Deep_Learning](https://github.com/jaheel/Deep_Learning)|深度学习领域论文翻译+理解|9|2022-02-25|2021-08-17|
-|24|[shenhao-stu/CS224W-Fall2021](https://github.com/shenhao-stu/CS224W-Fall2021)|🌟🌟CS224W Fall 2021   Stanford 的个人学习路线🌟🌟|3|2022-06-10|2021-11-28|
+|1|[modelscope/facechain](https://github.com/modelscope/facechain)|FaceChain is a deep-learning toolchain for generating your Digital-Twin.|8769|2024-07-26|2023-08-10|
+|2|[01-ai/Yi](https://github.com/01-ai/Yi)|A series of large language models trained from scratch by developers @01-ai|7512|2024-07-26|2023-11-03|
+|3|[datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)|《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程|6755|2024-07-27|2023-11-16|
+|4|[datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe)|本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/|3906|2024-07-27|2023-10-29|
+|5|[YangLing0818/RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster)|[ICML 2024] Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (PRG)|1612|2024-06-06|2024-01-22|
+|6|[huggingface/cookbook](https://github.com/huggingface/cookbook)|Open-source AI cookbook|1524|2024-07-26|2023-11-24|
+|7|[microsoft/Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook)|This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) availab ...|1395|2024-07-26|2024-05-07|
+|8|[WTFAcademy/WTF-zk](https://github.com/WTFAcademy/WTF-zk)|零知识证明入门教程。Comprehensive Zero-Knowledge Proofs Tutorial. #zk #WIP|1327|2024-07-27|2023-11-29|
+|9|[MetaGLM/glm-cookbook](https://github.com/MetaGLM/glm-cookbook)|Examples and guides for using the GLM APIs|674|2024-07-26|2024-01-22|
+|10|[charent/Phi2-mini-Chinese](https://github.com/charent/Phi2-mini-Chinese)|Phi2-Chinese-0.2B 从0开始训练自己的Phi2中文小模型，支持接入langchain加载本地知识库做检索增强生成RAG。Training your own Phi2 small chat model from scratch.|437|2024-07-11|2023-12-22|
+|11|[DjangoPeng/LLM-quickstart](https://github.com/DjangoPeng/LLM-quickstart)|Quick Start for Large Language Models (Theoretical Learning and Practical Fine-tuning) 大语言模型快速入门（理论学习与微调实战）|403|2024-07-09|2023-12-11|
+|12|[libukai/Awesome-ChatTTS](https://github.com/libukai/Awesome-ChatTTS)|官方推荐的 ChatTTS 最佳入门指南，整理和汇总了常见问题和相关资源|339|2024-06-19|2024-06-05|
+|13|[wdndev/llama3-from-scratch-zh](https://github.com/wdndev/llama3-from-scratch-zh)|从零实现一个 llama3 中文版|311|2024-06-12|2024-05-23|
+|14|[ArronAI007/Awesome-AGI](https://github.com/ArronAI007/Awesome-AGI)|AGI资料汇总学习（主要包括LLM和AIGC），持续更新......|237|2024-07-22|2023-08-22|
+|15|[buluslee/DT-AI](https://github.com/buluslee/DT-AI)|这是DT-AI的学习路线开源版本，欢迎大家享用！对新手友好|124|2024-05-06|2023-08-17|
+|16|[WengLean/hands-on-research-tutorial](https://github.com/WengLean/hands-on-research-tutorial)|《动手做科研》面向科研初学者，一步一步地展示如何入门人工智能科研|122|2024-07-26|2024-05-07|
+|17|[aceliuchanghong/FAQ_Of_LLM_Interview](https://github.com/aceliuchanghong/FAQ_Of_LLM_Interview)|大模型算法岗面试题(含答案):常见问题和概念解析 "大模型面试题"、"算法岗面试"、"面试常见问题"、"大模型算法面试"、"大模型应用基础"|117|2024-06-10|2024-03-13|
+|18|[princepride/scratch-pytorch-step-by-step](https://github.com/princepride/scratch-pytorch-step-by-step)|教你只用最基本的python语法和numpy一步步实现深度学习框架|113|2024-06-03|2024-01-02|
+|19|[huangjia2019/ai-agents](https://github.com/huangjia2019/ai-agents)|异步图书 大模型应用开发 动手做AI Agent|107|2024-07-04|2024-05-10|
+|20|[solidglue/Machine_Learning_Sklearn_Examples](https://github.com/solidglue/Machine_Learning_Sklearn_Examples)|机器学习Sklearn入门指南。Machine Learning Sklearn API and Examples with Python3 and Jupyter Notebook.|105|2024-05-20|2024-02-28|
+|21|[GenTang/regression2chatgpt](https://github.com/GenTang/regression2chatgpt)|《解构大语言模型：从线性回归到通用人工智能》配套代码|96|2024-07-22|2023-12-07|
+|22|[solidglue/Deep_Learning_TensorFlow2_Examples](https://github.com/solidglue/Deep_Learning_TensorFlow2_Examples)|深度学习TensorFlow2入门指南。Deep Learning TensorFlow2  API and Examples with Python3 and Jupyter Notebook.|95|2024-05-20|2024-02-27|
+|23|[Mxoder/LLM-from-scratch](https://github.com/Mxoder/LLM-from-scratch)|一些 LLM 方面的从零复现笔记|87|2024-06-09|2024-04-29|
+|24|[XiaShan1227/GNN-Tutorial](https://github.com/XiaShan1227/GNN-Tutorial)|B站GNN教程资料|67|2024-04-11|2024-01-14|
+|25|[cfcys/nanoGPT-Tutorial-CN](https://github.com/cfcys/nanoGPT-Tutorial-CN)|更友好的nanoGPT的中文教程|65|2024-05-17|2024-04-22|
+|26|[datawhalechina/zishu](https://github.com/datawhalechina/zishu)|wow-fullstack，令人惊叹的全栈开发教程|63|2024-07-06|2023-12-28|
+|27|[lgy0404/d2l-2023](https://github.com/lgy0404/d2l-2023)|✔️（持续更新）李沐 【动手学深度学习v2 PyTorch版】课程学习笔记，更正了AccumulateMore笔记的部分错误，从更加初级的角度做了部分内容补充|60|2024-05-10|2023-08-15|
+|28|[qianniucity/llm_notebooks](https://github.com/qianniucity/llm_notebooks)|AI 应用示例合集|44|2024-06-03|2024-04-25|
+|29|[RealKai42/langchainjs-juejin](https://github.com/RealKai42/langchainjs-juejin)|从前端到 AI：langchain.js 入门和实战|42|2024-05-17|2024-04-25|
+|30|[windmaple/Gemma-Chinese-instruction-tuning](https://github.com/windmaple/Gemma-Chinese-instruction-tuning)|演示Gemma中文指令微调的教程|42|2024-02-26|2024-02-25|
+|31|[HITSZ-OpenAuto/PHYS1002](https://github.com/HITSZ-OpenAuto/PHYS1002)|HITSZ 大学物理实验 实验报告、数据处理及绘图程序等资料|41|2024-07-13|2023-10-02|
+|32|[Zenobia000/DeepLearning-ds-fundamental](https://github.com/Zenobia000/DeepLearning-ds-fundamental)|深度學習理論程式大全|40|2024-07-25|2024-02-03|
+|33|[WTFAcademy/WTF-web3py](https://github.com/WTFAcademy/WTF-web3py)|我们最近在重新学web3py，巩固一下细节，也写一个“WTF web3py极简入门”，供小白们使用，每周更新1-3讲。|30|2024-02-15|2023-11-26|
+|34|[bbruceyuan/LLMs-101](https://github.com/bbruceyuan/LLMs-101)|从零到一实现一个 miniLLM～（动手学习LLM）|28|2024-04-30|2023-10-06|
+|35|[datawhalechina/hugging-audio](https://github.com/datawhalechina/hugging-audio)|Hugging Face Audio Course中文版，帮助学习者快速入门音频模态|27|2024-05-25|2023-12-18|
+|36|[Starlight0798/NKU-share](https://github.com/Starlight0798/NKU-share)|NKU计网学院各个课程作业|25|2024-04-09|2023-12-23|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

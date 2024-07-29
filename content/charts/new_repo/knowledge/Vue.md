@@ -1,53 +1,49 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Vue
-<sub>数据更新: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|729|2022-08-02|2022-01-05|
-|2|[tnfe/shida](https://github.com/tnfe/shida)|《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或百度 H5 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。|270|2022-06-20|2022-01-15|
-|3|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|121|2022-08-01|2021-08-22|
-|4|[Adicwu/comic-pc](https://github.com/Adicwu/comic-pc)|一个仅供学习自用的PC端动漫视频网站|65|2022-07-28|2022-03-01|
-|5|[serfend/problem-killer](https://github.com/serfend/problem-killer)|自定义题库的刷题工具软件|56|2022-06-09|2022-04-29|
-|6|[ADKcodeXD/Myblog-Vue3viteTs](https://github.com/ADKcodeXD/Myblog-Vue3viteTs)|我的个人博客，使用vue3+vite+Ts搭建 ，后台正在搭建中，使用java springboot|41|2022-07-20|2022-02-13|
-|7|[mixmoe/HikariSearch](https://github.com/mixmoe/HikariSearch)|一款动漫图片搜索引擎聚合网站, 基于 Cloudflare 提供的 Pages Function. / A collection of anime image search engines, based on Cloudflare Pages Function.|38|2022-07-26|2022-02-20|
-|8|[L-zhicong/blog-vue](https://github.com/L-zhicong/blog-vue)|博客前端|32|2022-05-25|2022-04-11|
-|9|[wangyupo/vue3-cookbook](https://github.com/wangyupo/vue3-cookbook)|vue3 组合式API、vuex、vue-router、axios、tailwindcss使用示例及代码展示，vue3 入门参考书，vue3 烹饪书 |32|2022-04-08|2022-03-10|
-|10|[justorez/bookmark-cleaner](https://github.com/justorez/bookmark-cleaner)|自动检测失效书签链接，一键清理 🚀|30|2022-05-04|2022-04-05|
-|11|[cumt-robin/vue3-ts-blog-frontend](https://github.com/cumt-robin/vue3-ts-blog-frontend)|基于 vue3 + ts + ant-design-vue 的个人博客|30|2022-06-28|2021-08-19|
-|12|[Creator-SN/IKFB](https://github.com/Creator-SN/IKFB)|Involution King Fun Book (IKFB, Chinese: 快卷, 卷王快乐本) is an integrated management system for papers and literature. Powered by Electron.|29|2022-05-26|2021-09-20|
-|13|[nice-people-frontend-community/nice-leetcode](https://github.com/nice-people-frontend-community/nice-leetcode)|好青年    leetcode 打卡群|27|2022-08-02|2022-05-03|
-|14|[xingxi521/vue-blog-community](https://github.com/xingxi521/vue-blog-community)|vue社区博客-vue全家桶-koa2-mongoose-mongoDB|25|2022-05-25|2022-02-13|
-|15|[jones2000/HQChart-Super](https://github.com/jones2000/HQChart-Super)|HQChart对接第3放数据教程.|25|2022-06-27|2021-10-11|
-|16|[flaribbit/vitepress-theme-sakura](https://github.com/flaribbit/vitepress-theme-sakura)|A lovely blog theme for vitepress. 可爱又轻量的二次元博客主题！大概是隔壁 wordpress sakura 主题的移植吧|23|2022-06-20|2022-02-10|
-|17|[daodaolee/vuepress-plugin-awesome-musicplayer](https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer)|一款基于vuepress1.x插件的音乐播放器，打破以往博客音乐播放方式，让用户有更佳的沉浸式体验！|21|2022-03-27|2021-12-23|
-|18|[crazybox521/vue-NetEasyMusic](https://github.com/crazybox521/vue-NetEasyMusic)|基于vue和开源网易云音乐node接口的仿网易云音乐网站，音乐和视频相关内容几乎都已完成，仅供学习交流|18|2022-07-24|2021-12-21|
-|19|[Okarin1/web-project](https://github.com/Okarin1/web-project)|A minimalist static bookmark！|17|2022-07-15|2022-01-21|
-|20|[kingfront/freely](https://github.com/kingfront/freely)|手机端简易示例《随机热门音乐》|15|2022-07-19|2022-03-01|
-|21|[wudan555/vue_admin](https://github.com/wudan555/vue_admin)|后台管理项目学习，以及自定义脚手架拉取|13|2022-07-27|2022-07-14|
-|22|[mvpyb/vite-vant-template](https://github.com/mvpyb/vite-vant-template)|Vite Vant Template 是一个免费开源的移动端模版。使用了最新的`vue3`,`vite2`等主流技术开发，开箱即用的移动端解决方案，也可用于学习参考。|13|2022-08-02|2021-10-27|
-|23|[zhiyu1998/Simplest](https://github.com/zhiyu1998/Simplest)|Vue3 + TypeScript + Vite2 + Vue-Router4 + Pinia + Element-plus 大道至简的博客前端|11|2022-05-19|2021-12-31|
-|24|[scudev/qndxx](https://github.com/scudev/qndxx)|青年大学习截图生成|11|2022-03-16|2021-12-16|
-|25|[OToNaShiAKi/material-douden-tool](https://github.com/OToNaShiAKi/material-douden-tool)|采用 Material 设计的向 bilibili 直播间发送 Vtuber 翻译、歌词的弹幕同传工具|10|2022-07-15|2022-02-17|
-|26|[mcwenzai/vue3-ts-blog](https://github.com/mcwenzai/vue3-ts-blog)|最新vue3+typescript编写的高性能博客前端|10|2022-02-13|2022-02-13|
-|27|[0xYootou/frontend-modern-experience-share-slide](https://github.com/0xYootou/frontend-modern-experience-share-slide)|一个关于Web 体验技术发展前沿的小分享|10|2022-03-19|2022-01-18|
-|28|[Evan-WH/MyBlog-With-Aurora](https://github.com/Evan-WH/MyBlog-With-Aurora)|个人博客|10|2022-05-01|2022-01-15|
-|29|[waywardcode918/myblog](https://github.com/waywardcode918/myblog)|基于vue2实现的前端博客，ui采用elementUI，通过读取本地md文件实现博客展示和导航配置|9|2022-04-16|2022-01-24|
-|30|[Sweet0954/supermall](https://github.com/Sweet0954/supermall)|学习coderwhy老师的vue课程,里面的vue移动端项目|9|2022-03-25|2021-09-25|
-|31|[Hacker-C/mall](https://github.com/Hacker-C/mall)|B站 coderwhy vue2 课程项目。|7|2022-05-28|2022-04-21|
-|32|[wangrenjie6666/vue3_ts_blog](https://github.com/wangrenjie6666/vue3_ts_blog)|vu3+ts+blog 个人博客  打造属于自己的个人博客 |7|2022-05-17|2022-04-09|
-|33|[cworld1/vue-learning](https://github.com/cworld1/vue-learning)|关于 CWorld 在学习 Vue 时的一些代码记录|7|2022-03-25|2022-01-20|
-|34|[yunyuyuan/nuxt2-blog](https://github.com/yunyuyuan/nuxt2-blog)|nuxt2旧博客|7|2022-07-27|2021-11-23|
-|35|[galaxy-s10/vue3-blog-admin](https://github.com/galaxy-s10/vue3-blog-admin)|基于vue3+webpack5+typescriipt搭建的博客后台|6|2022-05-09|2022-03-12|
-|36|[hrdate/My-VueBlog](https://github.com/hrdate/My-VueBlog)|前后端分离的个人博客，主要采用Vue前/后台+Java的Spring boot框架整合其他...|6|2022-02-28|2021-12-22|
-|37|[huangrijian/Vue-personal-Blog](https://github.com/huangrijian/Vue-personal-Blog)|基于Vue全家桶+element-ui的博客网站|4|2022-04-13|2022-03-18|
-|38|[a952543073/vue3-vite2-ts](https://github.com/a952543073/vue3-vite2-ts)|vue3-vite2-ts  脚手架 集合各大大佬的精华  开箱即用|4|2022-03-15|2022-03-04|
-|39|[xftest/vue2-Mimall](https://github.com/xftest/vue2-Mimall)|个人学习： vue2+ element ui 商城项目|3|2022-06-22|2022-06-19|
-|40|[golang-studio/go-docs](https://github.com/golang-studio/go-docs)|Go 语言入门到精通文档|3|2022-06-18|2022-05-11|
-|41|[SuperCuteXiaoSi/xiaosiBlog](https://github.com/SuperCuteXiaoSi/xiaosiBlog)|Nuxt3+Eggjs搭建的个人博客|3|2022-05-06|2022-04-02|
-|42|[realhuhu/cp_frontend](https://github.com/realhuhu/cp_frontend)|校史知识竞赛前端|3|2022-02-26|2022-02-16|
-|43|[wangwangwang23333/GoHome2.0](https://github.com/wangwangwang23333/GoHome2.0)|归宿2.0版本，JavaEE和软件工程课程项目|3|2022-03-11|2021-10-03|
+|1|[Theo-Messi/Theo-Docs](https://github.com/Theo-Messi/Theo-Docs)|流媒体森林 - 全方位流媒体 观影指南 引领您进入五彩斑斓的视听世界，并涵盖了 Netflix 、Disney+ 、Spotify会员 和 YouTube会员 的精彩领域/日常记录/青龙面板/ESXI/OpenWrt/VPS指南/银河录像局/奈飞小铺-爱合租/FlyingBird/Bridge The Wise/阿里云盘/影视资源|316|2024-07-25|2023-09-19|
+|2|[TyCoding/langchat](https://github.com/TyCoding/langchat)|LangChat: Java LLMs/AI Project, Supports Multi AI Providers( OpenAI / Gemini / Ollama / Azure / 智谱 / 阿里通义大模型 / 百度千帆大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用|188|2024-07-27|2024-02-08|
+|3|[DrssXpro/waterfall-demo](https://github.com/DrssXpro/waterfall-demo)|Vue3 + TS：模仿小红书封装瀑布流组件|86|2024-05-23|2024-01-11|
+|4|[Theo-Messi/xx.theovan.cn](https://github.com/Theo-Messi/xx.theovan.cn)|玄学宝典 - 中华传统五术书籍(山医命相卜)/传世经典著作|73|2024-07-25|2023-10-18|
+|5|[bitporo/EasySend](https://github.com/bitporo/EasySend)|✨⚡️EasySend is a software that can share messages and files in LAN.  Only need open it on the host device, other devices use browser receive messages and files(局域网共享文本文件小工具，仅需一端安装，其余端使用浏览器即可)|44|2024-07-21|2024-06-10|
+|6|[open17/vuepress-theme-easy-book](https://github.com/open17/vuepress-theme-easy-book)|一款美观,知识库向的vuepress主题🌠|35|2024-01-31|2023-09-14|
+|7|[Natrium0521/Firefly](https://github.com/Natrium0521/Firefly)|《崩坏：星穹铁道》流萤工具箱——成就管理、跃迁记录|34|2024-07-23|2024-03-03|
+|8|[nolebase/integrations](https://github.com/nolebase/integrations)|A collection of diverse documentation engineering tools   多元化的文档工程工具合集|30|2024-03-25|2023-08-23|
+|9|[youshandefeiyang/tools](https://github.com/youshandefeiyang/tools)|直播/点播工具集合|24|2024-06-30|2024-06-30|
+|10|[syh19/siyuan-plugin-task-list](https://github.com/syh19/siyuan-plugin-task-list)|思源笔记插件——任务列表：汇总散落在整个工作空间的任务  Siyuan Note Plugin——Task List: Summarize tasks scattered throughout your workspace|24|2024-07-24|2024-03-23|
+|11|[fantastic-mobile/basic](https://github.com/fantastic-mobile/basic)|⭐⭐⭐⭐⭐ 一款自成一派的移动端 H5 框架，支持多款 UI 组件库，基于 Vue3 。移动端, H5, vant, 手机端, mobile, 模板, 商城, 微信公众号|22|2024-07-26|2024-05-29|
+|12|[izhichao/vitepress-theme-minimalism](https://github.com/izhichao/vitepress-theme-minimalism)|A Minimalist VitePress Blog Theme   一个极简的 VitePress 博客主题|21|2024-07-25|2023-09-14|
+|13|[DrssXpro/virtualwaterfall-demo](https://github.com/DrssXpro/virtualwaterfall-demo)|Vue3+TS：实现小红书瀑布流虚拟列表组件|20|2024-07-14|2024-01-26|
+|14|[Alittfre/vitepress-theme-bluearchive](https://github.com/Alittfre/vitepress-theme-bluearchive)|Blue Archive主题博客，基于VitePress，绝赞画饼中|15|2024-07-17|2024-04-17|
+|15|[youngyangyang04/element-ui](https://github.com/youngyangyang04/element-ui)|【代码随想录知识星球】项目分享-ui组件库|14|2024-03-04|2024-01-17|
+|16|[open17/vitepress-theme-open17](https://github.com/open17/vitepress-theme-open17)|一款简单美观的博客主题,继承于vitepress默认主题|12|2024-07-23|2024-03-22|
+|17|[X-X-X-X-X-X-X-X-X-X-X-X-X/Bookmark](https://github.com/X-X-X-X-X-X-X-X-X-X-X-X-X/Bookmark)|Edge/Chrome书签插件，让书签变得再次好用|10|2024-07-20|2023-09-18|
+|18|[Sunnnner/wallhaven_rs](https://github.com/Sunnnner/wallhaven_rs)|Wallpapers图片下载器|9|2024-05-23|2024-05-21|
+|19|[rictt/xhs-electron-app](https://github.com/rictt/xhs-electron-app)|小红书运营工具，支持批量账号发布图文，批量操作等|9|2024-03-01|2024-02-19|
+|20|[PFCCLab/blog](https://github.com/PFCCLab/blog)|PFCC 社区博客|9|2024-07-10|2023-10-24|
+|21|[nonhana/littleSharing-Frontend](https://github.com/nonhana/littleSharing-Frontend)|一个以Markdown为主要沟通形式的资源分享社区。Frontend：Vue3.0+Pinia+Vite+TypeScript+Element Plus|9|2024-07-22|2023-09-14|
+|22|[ybz61/my-trip](https://github.com/ybz61/my-trip)|仿美团民宿；技术栈主要为Vue3+Vite4+Pinia+Vant3等；适合学习Vue3入门等；|8|2024-02-24|2023-10-11|
+|23|[open17/vuepress-theme-qbook](https://github.com/open17/vuepress-theme-qbook)|🍉一个美观的VuePress博客&文档主题 |8|2024-04-10|2023-08-08|
+|24|[jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter)|微信公众号文章导出工具|7|2024-07-27|2024-07-17|
+|25|[opendidi/mind](https://github.com/opendidi/mind)|🔥🔥🔥 web(组态图，拓扑图，拓扑，脑图，思维导图)可视化编辑器|7|2024-07-13|2024-04-01|
+|26|[milkory/anita-terminal](https://github.com/milkory/anita-terminal)|阿妮塔终端 / 雷索纳斯 资料整合站|7|2024-06-22|2024-03-25|
+|27|[BrackRat/BrBlog](https://github.com/BrackRat/BrBlog)|优雅至上的个人博客。 Nuxt3 全栈博客|7|2024-07-06|2024-02-15|
+|28|[LiHongyao/vite-vue-template](https://github.com/LiHongyao/vite-vue-template)|基于Vite5.0 + TypeScript + Vant4 搭建的H5、公众号、生活号模板|7|2024-06-25|2023-11-18|
+|29|[moyangzhan/langchain4j-aideepin-admin](https://github.com/moyangzhan/langchain4j-aideepin-admin)|JAVA版本的检索增强生成(RAG)项目，包括知识库、搜索   JAVA version of retrieval enhancement generation(RAG) project ,including knowledge base, search|6|2024-07-16|2024-06-18|
+|30|[KikoStar123/webgis_srtp](https://github.com/KikoStar123/webgis_srtp)|时空知识图谱SRTP项目Webgis前端|6|2024-07-13|2024-01-28|
+|31|[EITSxiaozhai/FastApi_Blog](https://github.com/EITSxiaozhai/FastApi_Blog)|一个简单的Fastap+VUE的前后端异步分离博客项目-采用了Docker自动部署|6|2024-07-19|2023-10-31|
+|32|[weiguic2w/bubble](https://github.com/weiguic2w/bubble)|（四六级，考研）英语外刊阅读 + AI翻译|5|2024-07-03|2024-06-29|
+|33|[yzwyxjs/firefly](https://github.com/yzwyxjs/firefly)|《崩坏：星穹铁道》中的角色「流萤」主题网站。A website created for the character "Firefly" from "Honkai: Star Rail".|5|2024-02-14|2024-02-11|
+|34|[enson0131/vitePress-blob](https://github.com/enson0131/vitePress-blob)|个人博客|5|2024-06-13|2023-09-15|
+|35|[xfxaiagent/xfxai](https://github.com/xfxaiagent/xfxai)|小飞侠AI解决方案, AI办公, AI辅助, PPT转化, 生产力, 工作流程, 文档处理, 设计和演示应用, 工作效率, 任务管理, 项目管理, 办公自动化, 创意展现, 智能日程管理, 数据驱动决策, 效率提升, 创新工作方案, 实战案例分享, 优化工作流, 提高工作效率, 智能技术应用|4|2024-06-21|2024-05-31|
+|36|[Arcticn/KeyBlog](https://github.com/Arcticn/KeyBlog)|A blog website made with ASP .Net core + Vue.js 使用 ASP .Net core + Vue.js 编写的前后端分离的博客网站|4|2024-07-09|2024-05-19|
+|37|[universe-st/noname-extensionManager](https://github.com/universe-st/noname-extensionManager)|无名杀《扩展管家》扩展，使用了vue特性。|4|2024-03-17|2024-03-17|
+|38|[justorez/peppa](https://github.com/justorez/peppa)|🐷《挑战 52 天背完小猪佩奇》配套练习网站|4|2024-04-20|2024-02-11|
+|39|[Cookiesukaze/bianlian](https://github.com/Cookiesukaze/bianlian)|AI视频翻译   AI Video Translation|4|2024-05-29|2023-12-09|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

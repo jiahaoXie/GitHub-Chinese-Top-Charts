@@ -1,15 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Groovy
-<sub>数据更新: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[DreamPWJ/jenkins-shared-library](https://github.com/DreamPWJ/jenkins-shared-library)|强大灵活易用的多端CI/CD共享库流水线 One For All DevOps |14|2022-03-29|2022-02-14|
-|2|[dqzboy/DevOps](https://github.com/dqzboy/DevOps)|CICD流水线|11|2022-03-08|2021-12-02|
-|3|[TabooLib/shrinking-kotlin](https://github.com/TabooLib/shrinking-kotlin)|Reduce file size after Kotlin compilation|5|2022-02-11|2022-01-27|
-|4|[eonliu/packer](https://github.com/eonliu/packer)|一个Android打包工具插件，支持360加固、多渠道打包、将APK上传到FTP等功能。|3|2022-03-31|2022-01-24|
-|5|[vSimpleton/UploadApkPlugin](https://github.com/vSimpleton/UploadApkPlugin)|Gradle自定义插件，一键实现打包apk、加固apk、上传到蒲公英并发送消息到钉钉群|2|2022-03-15|2022-02-25|
+|1|[guolong123/manci](https://github.com/guolong123/manci)|一个 Jenkins library 库，轻松集成实现各个代码平台的 CI/CD 流程|7|2024-05-17|2024-04-12|
+|2|[YaokunLee/Router](https://github.com/YaokunLee/Router)|自定义路由框架，APT+字节码插桩实现组件自动注册，支持参数解析、路由总表文档生成|3|2024-03-02|2023-11-20|
+|3|[cuiliang0302/spring-boot-demo](https://github.com/cuiliang0302/spring-boot-demo)|最简单的springboot项目，用于测试java项目CICD功能。|2|2024-07-27|2024-04-24|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

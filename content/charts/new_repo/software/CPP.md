@@ -1,43 +1,44 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > C++
-<sub>数据更新: 2022-12-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[focus-creative-games/hybridclr](https://github.com/focus-creative-games/hybridclr)|HybridCLR是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotupdate.|2224|2022-11-29|2022-07-04|
-|2|[tuyoogame/huatuo](https://github.com/tuyoogame/huatuo)|huatuo是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 Huatuo is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix|2100|2022-07-02|2022-01-11|
-|3|[MicroCBer/BetterNCM](https://github.com/MicroCBer/BetterNCM)|PC版网易云客户端插件管理器|1914|2022-12-04|2022-04-03|
-|4|[MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray)|Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)|952|2022-12-08|2022-05-03|
-|5|[shuax/chrome_plus](https://github.com/shuax/chrome_plus)|Chrome 增强软件|432|2022-08-05|2022-04-03|
-|6|[seventeenman/CallBackDump](https://github.com/seventeenman/CallBackDump)|dump lsass进程工具|397|2022-12-08|2022-09-25|
-|7|[shuax/edge_plus](https://github.com/shuax/edge_plus)|Chromium-based Edge 增强软件|375|2022-08-05|2022-03-28|
-|8|[0xCuSO4/DHLYK](https://github.com/0xCuSO4/DHLYK)|大灰狼远控木马 V9.5 源码|339|2022-06-16|2022-01-08|
-|9|[MegEngine/MegCC](https://github.com/MegEngine/MegCC)|MegCC是一个运行时超轻量，高效，移植简单的深度学习模型编译器|276|2022-11-28|2022-09-27|
-|10|[zavier-wong/acid](https://github.com/zavier-wong/acid)|A distributed service governance framework. 分布式服务治理框架|259|2022-12-06|2022-01-14|
-|11|[Tencent/embedx](https://github.com/Tencent/embedx)|embedx 是基于 c++ 开发的、完全自研的分布式 embedding 训练和推理框架。它目前支持 图模型、深度排序、召回模型和图与排序、图与召回的联合训练模型等|248|2022-11-09|2022-06-10|
-|12|[ljc545w/ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot)|PC微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装COM接口供Python、C#调用|212|2022-08-05|2022-03-13|
-|13|[MinamiChiwa/Trainers-Legend-G](https://github.com/MinamiChiwa/Trainers-Legend-G)|赛马娘本地化插件「Trainers' Legend G」|209|2022-12-03|2022-01-23|
-|14|[Noob-Dream/cskaoyan](https://github.com/Noob-Dream/cskaoyan)|计算机考研国家线 计算机考研需要考哪些科目 计算机考研院校推荐 计算机考研学校排名 计算机考研科目 计算机考研 计算机考研大纲 计算机专业考研 计算机考研专业课 计算机408考研科目 软件工程考研 考研真题|205|2022-07-17|2022-03-09|
-|15|[cxasm/notepad--](https://github.com/cxasm/notepad--)|一个支持windows/linux/mac的文本编辑器，目标是要替换notepad++，来自中国。|203|2022-12-07|2022-06-15|
-|16|[H4de5-7/Bundler-bypass](https://github.com/H4de5-7/Bundler-bypass)|免杀捆绑器，过主流杀软。A Bundler bypass anti-virus|198|2022-11-08|2022-11-05|
-|17|[GrowthEase/LLS-Player](https://github.com/GrowthEase/LLS-Player)|低延时直播（Low-Latency Streaming，LLS）是网易云信推出的低延时、强同步、高质量的直播产品。低延时直播产品基于云信 WE-CAN 全球智能路由网络，为开发者提供毫秒级延时、多平台同步、高可靠高并发的直播服务。  集成网易云信播放器 SDK/NERTD 插件，实现毫秒级延时、稳定流畅的高质量直播场景。|195|2022-11-09|2022-05-09|
-|18|[GrowthEase/NetEase_Meeting](https://github.com/GrowthEase/NetEase_Meeting)|网易会议，是基于网易云信自主研发的新一代云信音视频SDK（G2）提供的视频会议组件化产品，支持直接下载使用，也支持基于SDK将网易会议以组件的方式集成到自己的应用中。本项目提供网易会议产品手册、开发文档、示例项目等相关内容。|160|2022-11-24|2022-02-28|
-|19|[Rvn0xsy/GetWindowsCredentials](https://github.com/Rvn0xsy/GetWindowsCredentials)|通过WindowsAPI获取用户凭证，并保存到文件中|156|2022-09-02|2022-09-01|
-|20|[hiroi-sora/PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)|OCR离线图片文字识别命令行windows程序，以JSON字符串形式输出结果，方便别的程序调用。提供各种语言API。由 PaddleOCR C++ 编译。|154|2022-12-01|2022-03-29|
-|21|[galis/OpenTikTok](https://github.com/galis/OpenTikTok)|模仿剪映，视频编辑DEMO！|131|2022-12-06|2022-01-15|
-|22|[NotepadFree/NotepadFree](https://github.com/NotepadFree/NotepadFree)|NotepadFree是源自Notepad++的编辑器应用。|123|2022-10-15|2022-09-25|
-|23|[lzs123/CProxy](https://github.com/lzs123/CProxy)|基于epoll实现的C++版内网穿透|97|2022-08-26|2022-02-04|
-|24|[scarsty/nn-editor](https://github.com/scarsty/nn-editor)|Neural Net Editor 神经网络编辑器|94|2022-07-14|2022-01-05|
-|25|[chengwei0427/ESKF_LIO](https://github.com/chengwei0427/ESKF_LIO)|IESKF-LIO reference to fast_lio1.0(参考fast-lio早期版本，复现的fast-lio2)|83|2022-11-23|2022-07-25|
-|26|[A-Normal-User/NtSocket_NtClient_NtServer](https://github.com/A-Normal-User/NtSocket_NtClient_NtServer)|Using NtCreateFile and NtDeviceIoControlFile to realize the function of winsock（利用NtCreateFile和NtDeviceIoControlFile 实现winsock的功能）|75|2022-09-09|2022-09-08|
-|27|[KennyWGH/efficient_online_segmentation](https://github.com/KennyWGH/efficient_online_segmentation)|Efficient Online Segmentation of Ground&Wall Points for Multi-line Spinning LiDARs. //在线分割激光点云中的地面点和墙面点。|75|2022-06-26|2022-05-05|
-|28|[lyshark/LyMemory](https://github.com/lyshark/LyMemory)|一款免费的内核级内存读写工具，可强制读写任意应用层进程内存数据。  A free kernel level memory reading and writing tool, which can forcibly read and write memory data of any application layer process.|72|2022-11-14|2022-09-27|
-|29|[lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry)|微信逆向。Hook WeChat, passing message between agent and WeChat.|71|2022-11-22|2022-09-20|
-|30|[S1mpleBug/muduo_cpp11](https://github.com/S1mpleBug/muduo_cpp11)|C++11版本muduo网络库 除去了对boost库的依赖|70|2022-10-14|2022-03-01|
-|31|[wz-wsl/360-bypass](https://github.com/wz-wsl/360-bypass)|c++免杀绕过360,vt爆4个|69|2022-08-18|2022-08-11|
-|32|[liu976336402/NUC9-hackintosh](https://github.com/liu976336402/NUC9-hackintosh)|NUC9 opencore 引导|64|2022-11-17|2022-07-14|
-|33|[H3d9/memory_cleaner](https://github.com/H3d9/memory_cleaner)|Memory Cleaner重制版（原版未开源），删除强制联网更新，并添加目前windows已有的所有清理内存方法。|64|2022-10-01|2022-06-12|
+|1|[SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)|High-speed Large Language Model Serving on PCs with Consumer-grade GPUs|7695|2024-07-15|2023-12-15|
+|2|[GuijiAI/duix.ai](https://github.com/GuijiAI/duix.ai)|-|3626|2024-07-22|2024-05-16|
+|3|[Maplespe/DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)|Add custom effect to global system title bar, support win10 and win11.|1552|2024-07-21|2024-01-14|
+|4|[InfpHub/Raptor](https://github.com/InfpHub/Raptor)|第三方阿里云盘桌面应用客户端|1484|2024-04-12|2024-02-12|
+|5|[KtzeAbyss/Easy-Virtual-Display](https://github.com/KtzeAbyss/Easy-Virtual-Display)|Effortlessly create virtual displays in Windows, capable of supporting various resolutions and refresh rates, suitable for remote control or graphics card spoofing.在win中轻松创建支持多种分辨率和刷新率的虚拟显示器，可用于远程控制或显 ...|1154|2024-03-15|2023-09-17|
+|6|[myzxcg/RealBlindingEDR](https://github.com/myzxcg/RealBlindingEDR)|Remove AV/EDR Kernel ObRegisterCallbacks、CmRegisterCallback、MiniFilter Callback、PsSetCreateProcessNotifyRoutine Callback、PsSetCreateThreadNotifyRoutine Callback、PsSetLoadImageNotifyRoutine Callback...|806|2024-06-21|2023-10-28|
+|7|[T4y1oR/RingQ](https://github.com/T4y1oR/RingQ)|一款后渗透免杀工具，助力每一位像我这样的脚本小子快速实现免杀，支持bypass AV/EDR 360 火绒 Windows Defender Shellcode Loader|794|2024-07-22|2024-05-11|
+|8|[superDMS/HsFreezer-Hidden-in-the-snow-](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-)|一款调度计算机资源的进程管理软件(游戏暂停冻结软件)|790|2024-07-25|2024-04-16|
+|9|[losehu/uv-k5-firmware-custom](https://github.com/losehu/uv-k5-firmware-custom)|全功能泉盛UV-K5/K6固件 Quansheng UV-K5/K6 Firmware|569|2024-07-21|2023-11-30|
+|10|[nndeploy/nndeploy](https://github.com/nndeploy/nndeploy)|nndeploy是一款模型端到端部署框架。以多端推理以及基于有向无环图模型部署为基础，致力为用户提供跨平台、简单易用、高性能的模型部署体验。|551|2024-07-27|2023-08-08|
+|11|[alibaba/rtp-llm](https://github.com/alibaba/rtp-llm)|RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.|463|2024-07-27|2023-12-27|
+|12|[CowNowK/AimStar](https://github.com/CowNowK/AimStar)|Free and open-source external cheat for CS2, written in C++, working on Windows|440|2024-07-11|2023-11-28|
+|13|[hymnly133/Sapphire-EnhancedDesktop](https://github.com/hymnly133/Sapphire-EnhancedDesktop)|Windows桌面取代软件|427|2024-07-27|2024-07-15|
+|14|[Neo-Maoku/SearchAvailableExe](https://github.com/Neo-Maoku/SearchAvailableExe)|寻找可利用的白文件|403|2024-05-14|2024-03-05|
+|15|[melon/qingwu-zimu](https://github.com/melon/qingwu-zimu)|青梧字幕是一款基于whisper的AI字幕提取工具|397|2024-03-14|2024-02-27|
+|16|[LiteLoaderQQNT/QQNTFileVerifyPatch](https://github.com/LiteLoaderQQNT/QQNTFileVerifyPatch)|逆他妈的QQNT Patch文件检测|380|2024-07-23|2023-12-12|
+|17|[chinosk6/gakuen-imas-localify](https://github.com/chinosk6/gakuen-imas-localify)|学园偶像大师 本地化插件（开发中...） / Gakumas localify plugin (Developing...)|368|2024-07-06|2024-05-17|
+|18|[Alan-CRL/IDT](https://github.com/Alan-CRL/IDT)|Windows 屏幕批注工具，拥有高效批注和丰富功能， 让屏幕演示变得简单，让教学授课变得高效，适用于触摸设备和PC端。   Windows screen annotation tool with efficient annotation and rich features, Make screen demonstrations simpler, teaching more efficient,  ...|326|2024-07-19|2023-09-20|
+|19|[HackerCalico/No_X_Memory_ShellCode_Loader](https://github.com/HackerCalico/No_X_Memory_ShellCode_Loader)|无可执行权限加载 ShellCode。Loading ShellCode without executable permission.|269|2024-07-23|2024-02-06|
+|20|[Forairaaaaa/Rachel](https://github.com/Forairaaaaa/Rachel)|DIY 迷你游戏机 (｡・`ω´･)|259|2024-03-07|2023-11-07|
+|21|[MuShibo/Micro-Wheeled_leg-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot)|全球最小的桌面级双轮腿机器人！|241|2024-07-26|2024-07-20|
+|22|[COLORREF/QWidget-FancyUI](https://github.com/COLORREF/QWidget-FancyUI)|Qt-FancyUI，使用C++语言，基于QWidget，仅支持Qt6版本。|232|2024-07-27|2023-08-30|
+|23|[RQNG/WOW-OS](https://github.com/RQNG/WOW-OS)|简易的拖影风格多级菜单系统，满足小设备功能设置和展示的基本需求|215|2024-03-07|2023-08-27|
+|24|[Joe1sn/S-inject](https://github.com/Joe1sn/S-inject)|支持x86/x64的DLL和Shellcode 的Windows注入的免杀工具，支持图形化界面|201|2024-07-07|2024-02-05|
+|25|[issuimo/UnityResolve.hpp](https://github.com/issuimo/UnityResolve.hpp)|Unity引擎C++接口   Unity Engine C++ API   Mono/il2cpp   支持 Windows, Android, Linux   Game Cheat   游戏作弊|201|2024-07-20|2023-11-18|
+|26|[pcb9382/PlateRecognition](https://github.com/pcb9382/PlateRecognition)|License-Plate-Recognition 支持12种车牌检测识别，包含yolov5,yolov7,yolov8车牌检测，车牌矫正，车牌识别等，准确率高达99.5% 还有车牌数据集提供下载|194|2024-03-04|2023-09-06|
+|27|[zk1556/TinyRedis_RPC](https://github.com/zk1556/TinyRedis_RPC)|基于RPC框架的轻量级Redis|169|2024-04-10|2024-03-23|
+|28|[Mrack/TInjector](https://github.com/Mrack/TInjector)|劫持Zygote在App启动前注入so|131|2024-06-12|2024-05-14|
+|29|[beixiaocai/BXC_VideoAnalyzer_v4](https://github.com/beixiaocai/BXC_VideoAnalyzer_v4)|C++开发的视频行为分析系统v4版本|124|2024-07-23|2023-12-28|
+|30|[zk1556/Chat_Server_Boost](https://github.com/zk1556/Chat_Server_Boost)|基于Boost库的聊天服务器|121|2024-03-25|2024-03-24|
+|31|[byrnexu/betterquant2](https://github.com/byrnexu/betterquant2)|量化交易 程序化交易 QUANT|117|2024-06-06|2023-09-11|
+|32|[thu-db/huadb](https://github.com/thu-db/huadb)|HuaDB 实验框架|112|2024-06-17|2023-08-06|
+|33|[Daiyouqi/Convenience_QThread](https://github.com/Daiyouqi/Convenience_QThread)|在c++/qt中使用c#的async/await语法糖|85|2024-03-19|2024-01-21|
+|34|[rcszc/ImProFX](https://github.com/rcszc/ImProFX)|基于ImGui和OpenGL的桌面GUI开发框架 [很遗憾项目已荒废]|77|2024-03-22|2023-11-02|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

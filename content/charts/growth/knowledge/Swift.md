@@ -1,28 +1,36 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Swift
-<sub>数据更新: 2022-12-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook)|中华人民共和国法律手册|1716|6|2022-12-06|
-|2|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|13859|5|2022-11-24|
-|3|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4467|3|2022-11-26|
-|4|[ZhongshanHuang/PoReader](https://github.com/ZhongshanHuang/PoReader)|本地小说阅读器，支持深色模式，Wifi传书，代码简洁有注释(local text reader, support dark modal, upload text by wifi)|41|0|2022-07-29|
-|5|[ZamzamInc/ZamzamKit](https://github.com/ZamzamInc/ZamzamKit)|A Swift package for rapid development using a collection of micro utility extensions for Standard Library, Foundation, and other native frameworks.|258|0|2022-07-19|
-|6|[ccworld1000/OKKLineMin](https://github.com/ccworld1000/OKKLineMin)|OKKLineMin kline for min for learning for iPhone (support Swift5 & the latest Swift & iPhone & iOS 16)(min K线图 用于学习了解)|23|0|2022-07-28|
-|7|[pro648/BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)|iOS学习进程中的demo汇总|394|0|2022-08-02|
-|8|[Noah37/zhuishushenqi](https://github.com/Noah37/zhuishushenqi)|追书神器Swift版客户端（非官方）。 不断更新中......|223|0|2022-07-25|
-|9|[MengLiMing/EasyKits](https://github.com/MengLiMing/EasyKits)|常用扩展，分类导航，类似简书的UIScrollView嵌套、数据驱动复杂列表、弹窗、轮播、路由等|65|0|2022-06-21|
-|10|[even-cheng/ECSigner](https://github.com/even-cheng/ECSigner)|iOS签名Mac客户端，iPhone客户端，一键签名，网络地址直签，多文件同步签，自动区分企业签名和个人证书，一键Assets.car生成、解压导出和替换,自动注册设备并更新下载签名证书和签名文件进行签名，支持动态库注入。支持最新iOS15，并向下兼容。|165|0|2022-07-19|
-|11|[DamonHu/ZXKitLogger](https://github.com/DamonHu/ZXKitLogger)|The iOS side displays the output log log on the screen, and can generate log file sharing, which is convenient for debugging information when the real machine is not connected to xcode. iOS端将输出日志log悬浮 ...|24|0|2022-08-05|
-|12|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|875|0|2022-08-03|
-|13|[fatbobman/BlogCodes](https://github.com/fatbobman/BlogCodes)|【肘子的Swift笔记】博文中的代码汇总|17|0|2022-07-22|
-|14|[yaoxp/DemoSwift](https://github.com/yaoxp/DemoSwift)|swift 学习demo|22|0|2022-06-24|
-|15|[Apple-JinlongLu/JSONExport](https://github.com/Apple-JinlongLu/JSONExport)|JSONExport修复中文版是Mac下JSON字符串转Model对象工具，基于Ahmed-Ali/JSONExport进行完善。与Ahmed-Ali/JSONExport相比修改了关闭之后需要退出才能重新打开，适配了多语言，同样也适配了暗黑模式|16|0|2022-07-15|
-|16|[SunshineBrother/LeetCodeStudy](https://github.com/SunshineBrother/LeetCodeStudy)|算法学习|33|0|2022-07-01|
-|17|[JmoVxia/CLDemo](https://github.com/JmoVxia/CLDemo)|记录平时博客中的Demo，持续更新|391|0|2022-07-15|
-|18|[yungfan/iOS-BasedOnSwift](https://github.com/yungfan/iOS-BasedOnSwift)|iOS开发教程案例代码|27|0|2022-07-22|
+|1|[Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop)|Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop|941|45|2024-07-12|
+|2|[jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator)|"Copybook Generator" is a powerful copybook generation tool designed to meet the writing practice needs of different users.|716|16|2024-07-15|
+|3|[SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)|A handy collection of more than 500 native Swift extensions to boost your productivity.|13858|5|2024-07-20|
+|4|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|15040|4|2024-07-03|
+|5|[RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook)|中华人民共和国法律手册|2248|3|2024-07-12|
+|6|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |5197|3|2024-02-17|
+|7|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|1539|1|2024-07-21|
+|8|[rlxone/Equinox](https://github.com/rlxone/Equinox)|🌇 🌃  Create dynamic wallpapers for macOS.|1126|1|2024-06-11|
+|9|[RicardoWesleyli/SwiftUI_Mastery](https://github.com/RicardoWesleyli/SwiftUI_Mastery)|What you might not believe is that this SwiftUI programming book was written by a product manager.|18|0|2024-02-16|
+|10|[crazypoo/PTools](https://github.com/crazypoo/PTools)|iOS开发工具小集合,不定期更新|38|0|2024-07-26|
+|11|[jaywcjlove/swiftui-example](https://github.com/jaywcjlove/swiftui-example)|SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。|447|0|2024-06-24|
+|12|[dyljqq/DJGithub](https://github.com/dyljqq/DJGithub)|纯Swift搭建的个人的Github客户端。里面也会本地收录一些日常开发中看的博客等。|30|0|2024-05-13|
+|13|[yungfan/SwiftUI-learning](https://github.com/yungfan/SwiftUI-learning)|SwiftUI Learning Code|87|0|2024-06-22|
+|14|[RickeyBoy/Rickey-iOS-Notes](https://github.com/RickeyBoy/Rickey-iOS-Notes)|我的笔记合集，记录我在 iOS 学习过程中的一些收获|383|0|2024-04-28|
+|15|[songgeb/I-Love-iOS](https://github.com/songgeb/I-Love-iOS)|iOS学习笔记，技术道路走到黑|22|0|2024-02-04|
+|16|[DamonHu/DDLoggerSwift](https://github.com/DamonHu/DDLoggerSwift)|The iOS side displays the output log log on the screen, and can generate log file sharing, which is convenient for debugging information when the real machine is not connected to xcode. iOS端将输出日志log悬浮 ...|33|0|2024-05-27|
+|17|[fatbobman/BlogCodes](https://github.com/fatbobman/BlogCodes)|【肘子的Swift笔记】博文中的代码汇总|88|0|2024-04-02|
+|18|[starainDou/DDYDayly](https://github.com/starainDou/DDYDayly)|iOS每天学点知识。文章，博客，开源库，Demo，软件，插件，工具...好记性不如烂笔头，最怕有时候看到过类似知识点就是想不起来在哪里看过。。。|50|0|2024-03-29|
+|19|[reers/ReerKit](https://github.com/reers/ReerKit)|Swift 基础库. A collection of Swift extensions and utilities.|20|0|2024-07-24|
+|20|[JmoVxia/CLDemo](https://github.com/JmoVxia/CLDemo)|记录平时博客中的Demo，持续更新|484|0|2024-06-14|
+|21|[DamonHu/DDUtils](https://github.com/DamonHu/DDUtils)|DDUtils is a collection of commonly used features, developed based on Swift, that can be quickly implemented on iOS devices.|8|0|2024-05-28|
+|22|[simplismvip/Ebook](https://github.com/simplismvip/Ebook)|使用Swift写的电纸书阅读器，目前支持epub、txt格式电子书。|18|0|2024-04-09|
+|23|[yungfan/iOS-BasedOnSwift](https://github.com/yungfan/iOS-BasedOnSwift)|iOS开发教程案例代码|34|0|2024-04-18|
+|24|[aruis/BookTime](https://github.com/aruis/BookTime)|做一个安静的读书人|14|0|2024-07-05|
+|25|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|87|0|2024-07-01|
+|26|[rztime/QuicklySwift](https://github.com/rztime/QuicklySwift)|swift 提高UI编写效率，常用方法集合|10|0|2024-07-11|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

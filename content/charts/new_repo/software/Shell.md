@@ -1,86 +1,98 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Shell
-<sub>数据更新: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria)|Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。|941|2022-07-07|2021-09-19|
-|2|[ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian)|Armbian for Amlogic s9xxx tv box. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc.  including install to EMMC and update related functions. |881|2022-07-30|2021-09-19|
-|3|[521xueweihan/OneFile](https://github.com/521xueweihan/OneFile)|只有一个文件！|785|2022-07-12|2022-02-21|
-|4|[FlechazoPh/QLDependency](https://github.com/FlechazoPh/QLDependency)|青龙面板全依赖一键安装脚本 / Qinglong Pannel Dependency Install Scripts.|760|2022-07-28|2021-11-17|
-|5|[tossp/redpill-tool-chain](https://github.com/tossp/redpill-tool-chain)|这是一个测试项目，可能会有不可预测的事情发生（比如：毁损数据、烧毁硬件等等），请谨慎使用。|603|2022-07-27|2021-08-09|
-|6|[kkkyg/CFwarp](https://github.com/kkkyg/CFwarp)|Cloudflare WARP 多功能一键脚本，（自动识别WGCF与SOCKS5环境，同步循环Endpoint的IP，1：自定义设置刷新奈飞IP、自定义设置奈飞的IP区域，2：自定义设置仅刷IP区域，3：自定义WARP的IP段），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新增加中…|595|2022-05-13|2021-09-09|
-|7|[Misaka-blog/MisakaLinuxToolbox](https://github.com/Misaka-blog/MisakaLinuxToolbox)|御坂妹妹们的Linux VPS工具箱|417|2022-05-10|2021-12-25|
-|8|[liuran001/GJZS](https://github.com/liuran001/GJZS)|搞机助手·R（原「搞机助手重制版」）|401|2022-07-28|2021-08-23|
-|9|[ethminerproxy/MinerProxy](https://github.com/ethminerproxy/MinerProxy)|本程序为正版原创，最稳定的ETH以太坊代理中转矿池程序，全新界面，支持ETH，ETC，抽水稳定不掉线，作者抽水千分之三，MinerProxy/矿池代理，支持TCP和SSL协议，支持自定义抽水，高性能高并发，支持web界面管理，包含自启动和进程守护，重启后可以自动运行，会放开防火墙和连接数限制，一键搞定。|292|2022-07-03|2022-01-06|
-|10|[wenet-e2e/WenetSpeech](https://github.com/wenet-e2e/WenetSpeech)|A 10000+ hours dataset for Chinese speech recognition|281|2022-02-15|2021-08-03|
-|11|[Misaka-blog/Xray-script](https://github.com/Misaka-blog/Xray-script)|Xray一键安装脚本，基于网络跳跃原脚本魔改，支持节点自动生成Nginx伪装站，支持和宝塔面板共存，支持IPv4、IPv6 VPS|266|2022-05-10|2022-02-14|
-|12|[cxf-boluo/magisk_All](https://github.com/cxf-boluo/magisk_All)|magisk 一键集成环境，再也不用每次刷完机繁琐的配置环境了！|212|2022-07-21|2022-07-02|
-|13|[DHDAXCW/OpenWRT_x86_x64](https://github.com/DHDAXCW/OpenWRT_x86_x64)|基于 Lean&Lienol 源码的 x86 的 OpenWrt 固件。|207|2022-07-29|2021-10-23|
-|14|[KMinerProxy/KMinerProxy](https://github.com/KMinerProxy/KMinerProxy)|新一代轻量、多端管理的ETH抽水代理|202|2022-02-09|2022-01-31|
-|15|[fscarmen/warp_unlock](https://github.com/fscarmen/warp_unlock)|WARP unlock stream media one-click script. Support IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy . WARP 解锁流媒体一键脚本|194|2022-07-07|2022-01-26|
-|16|[r1is/CVE-2022-0847](https://github.com/r1is/CVE-2022-0847)|CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此 ...|187|2022-03-09|2022-03-07|
-|17|[teamssix/container-escape-check](https://github.com/teamssix/container-escape-check)|docker container escape check    Docker 容器逃逸检测|183|2022-04-19|2022-03-17|
-|18|[Char1es0rz/minerProxy](https://github.com/Char1es0rz/minerProxy)|以太坊矿池代理,可以自定义抽水地址和比例 ,支持热修改抽水比例。go语言编写,性能极高,唯一正版,明码标价开发费,拒绝暗抽!!!!!!|183|2022-05-19|2022-01-03|
-|19|[minlearn/onekeydevdesk](https://github.com/minlearn/onekeydevdesk)|省事一键DD云虚拟机云桌面云盘伴侣🚀🚀🎉🎉|164|2022-05-11|2021-11-22|
-|20|[nivin-studio/gonivinck](https://github.com/nivin-studio/gonivinck)|一个基于docker的go-zero运行环境。|155|2022-06-26|2021-12-28|
-|21|[DHDAXCW/NanoPi-R2S-rk3328](https://github.com/DHDAXCW/NanoPi-R2S-rk3328)|基于 Lean&Lienol 源码的 NanoPi R2S 的 OpenWrt 固件。|151|2022-07-23|2022-05-26|
-|22|[bigbugcc/OpenWrts](https://github.com/bigbugcc/OpenWrts)|OPENWRT 固件(Raspberry Pi4B/3B+，NanoPi R2S/R4S，Orange Pi R1Plus，x86) 依源码更新自动编译(周更)|151|2022-08-01|2021-10-18|
-|23|[mingmingge891/FXMinerProxy](https://github.com/mingmingge891/FXMinerProxy)|全网最稳定的POW矿池转发代理工具，纯原创非破解，稳定更新，独家伪装低延迟、独家伪装提交算力、独家PID抽水算法、独家前置代理中转模式、自定义开发者抽水、自定义多钱包抽水、GoLang高性能多线程、SSL、TLS、批量中转、配置热修改、API支持，UI源码开发|124|2022-08-01|2022-01-01|
-|24|[msojocs/wechat-web-devtools-linux](https://github.com/msojocs/wechat-web-devtools-linux)|微信开发者工具 纯Linux版 微信小程序|121|2022-05-14|2022-01-22|
-|25|[6r6/maicai.ddxq.tools](https://github.com/6r6/maicai.ddxq.tools)|叮咚买菜相关工具|119|2022-04-09|2022-04-04|
-|26|[christianhaitian/PortMaster](https://github.com/christianhaitian/PortMaster)|A simple tool that allows you to download various game ports that are available for 351Elec, ArkOS, JelOS, RetroOZ, and TheRA for RK3326 based devices and the RG552.. |118|2022-07-22|2021-09-10|
-|27|[ffffffff0x/403-fuzz](https://github.com/ffffffff0x/403-fuzz)|针对 403 页面的 fuzz 脚本|110|2022-02-14|2022-02-14|
-|28|[loaden/nspawn-qq](https://github.com/loaden/nspawn-qq)|利用systemd-nspawn容器跑Deepin 20.5或者Debian 11，安装deepinwine，稳定运行QQ、微信、深度商店等应用。低内存，高性能，沙盒机制不污染宿主机，支持多用户，可在所有systemd作为init的Linux发行版上运行。|108|2022-05-07|2021-09-23|
-|29|[Misaka-blog/XrayR-script](https://github.com/Misaka-blog/XrayR-script)|XrayR一键安装脚本|105|2022-05-10|2022-04-27|
-|30|[crazypeace/V2ray_VLESS_WebSocket_TLS_CaddyV2](https://github.com/crazypeace/V2ray_VLESS_WebSocket_TLS_CaddyV2)|V2ray最新版本，VLESS_WebSocket_TLS模式，CaddyV2前置解除TLS和path|93|2022-07-27|2022-02-27|
-|31|[zhenxun-org/zhenxun_bot-deploy](https://github.com/zhenxun-org/zhenxun_bot-deploy)|真寻bot一键部署脚本|91|2022-07-06|2022-03-31|
-|32|[HT944/MadRabbit](https://github.com/HT944/MadRabbit)|Rabbit新登陆方式|91|2022-07-28|2022-02-10|
-|33|[DHDAXCW/NanoPi-R2C-Plus](https://github.com/DHDAXCW/NanoPi-R2C-Plus)|基于lean和immortalwrt编译第三方固件，每天自动更新插件和内核，Fusion编译法|91|2022-06-16|2021-08-09|
-|34|[wy580477/Heroku-All-In-One-APP](https://github.com/wy580477/Heroku-All-In-One-APP)|yt-dlp+Aria2+WebUI+Rclone auto-upload+Filebrowser+Xray Vmess proxy& more on Heroku   Heroku 全能 APP|84|2022-05-21|2022-04-13|
-|35|[yaya131/X86_64-TEST](https://github.com/yaya131/X86_64-TEST)|自动构建openwrt官方源码！集成usb网卡，支持安卓手机usb网络共享，pci网卡暂时还没有集成，集成了20个插件，分为docker版，和精简版。docker分区1024。精简版分区300，diy2是添加lede软件库没有的插件。及一些原作者的插件。lite精简版配置config和docker版配置基本上都有简单说明。|83|2022-08-02|2021-09-17|
-|36|[pmkol/easymosdns](https://github.com/pmkol/easymosdns)|简化Mosdns基本功能使用的辅助脚本，仅需几分钟即可搭建一台支持ECS的无污染DNS服务器|82|2022-08-02|2022-07-01|
-|37|[flyqie/dd-shell](https://github.com/flyqie/dd-shell)|该脚本可在DD系统时为您提供一个WebUI以帮助您了解到目前的DD状态.|82|2022-05-29|2021-11-21|
-|38|[hugcabbage/shared-lede](https://github.com/hugcabbage/shared-lede)|定制编译OpenWrt固件|80|2022-07-05|2022-03-06|
-|39|[King-stark/NvJDCloud](https://github.com/King-stark/NvJDCloud)|Nolanjdc 诺兰面板安装说明|80|2022-03-25|2021-11-28|
-|40|[haiibo/OpenWrt](https://github.com/haiibo/OpenWrt)|多设备 OpenWrt 固件云编译——X86、R2S、R4S、微加云、贝壳云、我家云、N1、章鱼星球、S905x2、S905x3（包括常见的HK1、H96、X96等盒子）、S922x（GT-King、GT-King Pro、Odroid N2）|76|2022-07-02|2021-10-10|
-|41|[DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)|很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。|73|2022-05-15|2021-09-09|
-|42|[wy580477/Leech-AIO-APP-EX](https://github.com/wy580477/Leech-AIO-APP-EX)|All Downloaders with Rclone auto-upload & more on Docker/Colab/Heroku   Docker/Colab/Heroku 全能下载 APP|69|2022-07-25|2022-05-21|
-|43|[yaya131/OpenWrt_R7800_Stable](https://github.com/yaya131/OpenWrt_R7800_Stable)|跟随LEDE主线更新。极致AP版和精简版，更新频率：跟随源码更新而更新，涵盖机型R7800 ---XR500 ---K2P---新三---E8450----AX6S-5.15  |69|2022-08-01|2021-08-10|
-|44|[Misaka-blog/argo-tunnel-script](https://github.com/Misaka-blog/argo-tunnel-script)|CloudFlare Argo Tunnel 1key script|60|2022-05-01|2022-02-11|
-|45|[FuckMiner/FuckProxy](https://github.com/FuckMiner/FuckProxy)|最新ETH/ETC矿池代理中转程序FuckProxy,Web界面操作，简单易用，一键安装，小白可以轻松上手。 采用Golang语言开发，性能稳定优异。 无视CC，自动CC防护，自动封IP。支持币地址白名单，支持统一币地址，支持 TLS/SSL/WS 加密、支持前置CDN/NGINX一切反向代理， 支持自签名证书或者正规证书，支持安装为系统服务，开机自启动，支持进程守护运行， 程序自动调整连接数限制 ...|58|2022-03-26|2022-03-18|
-|46|[YidaozhanYa/RyujinxCN](https://github.com/YidaozhanYa/RyujinxCN)|Ryujinx 简体中文汉化补丁及自动构建|56|2022-05-16|2022-02-05|
-|47|[EdNovas/vpstoolbox](https://github.com/EdNovas/vpstoolbox)|EdNovas的VPS工具箱|55|2022-07-22|2021-12-27|
-|48|[lxgw/advanced-cjk-font-magisk-module-template](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)|A Magisk module template to systemlessly replace system fonts. Supports CJK Fonts. 用于制作字体模块的 Magisk 模块模板，支持中日韩字体的替换。|54|2022-06-06|2021-11-10|
-|49|[SinKy-Yan/zhenxunbot-docker](https://github.com/SinKy-Yan/zhenxunbot-docker)|真寻BOT的Docker镜像编译源码，已集成运行BOT必须的PostgreSQL、绪山真寻BOT|51|2022-07-24|2022-05-24|
-|50|[spiritLHLS/Hang-up-items](https://github.com/spiritLHLS/Hang-up-items)|问卷调查项目，云服务器推荐，挂机项目，各种脚本收集。欢迎右上角点铃铛及时收取更新信息。(不要fork，低调) |51|2022-07-23|2022-04-11|
-|51|[FrankFang/oh-my-docker](https://github.com/FrankFang/oh-my-docker)|-|50|2022-08-02|2021-08-25|
-|52|[wy580477/PaaS-vmess-trojan-argo](https://github.com/wy580477/PaaS-vmess-trojan-argo)|在 Heroku 以及其它 PaaS 平台上部署 Vmess WebSocket 和 Trojan Websocket 协议，支持WS-0RTT降低延迟，并可开启 Cloudflare Argo 隧道。|48|2022-07-12|2022-03-17|
-|53|[lxgw/simple-cjk-font-magisk-module-template](https://github.com/lxgw/simple-cjk-font-magisk-module-template)|A Magisk module template to systemlessly replace system fonts. Supports CJK Fonts. 用于制作字体模块的 Magisk 模块模板，支持中日韩字体的替换。|48|2022-06-06|2021-10-28|
-|54|[kenzok8/compile-package](https://github.com/kenzok8/compile-package)|small-package仓库，每日更新插件编译|46|2022-08-02|2021-09-29|
-|55|[BingMeme/OpenWrt_CN](https://github.com/BingMeme/OpenWrt_CN)|OpenWrt_简中|45|2022-05-08|2022-03-29|
-|56|[Misaka-blog/Misaka-WARP-Script](https://github.com/Misaka-blog/Misaka-WARP-Script)|Misaka WARP 脚本、支持手工菜单+全自动化脚本安装。支持AMD64、ARM64和S390X CPU架构的VPS、支持KVM、ZVM、OpenVZ和LXC虚拟化架构的VPS|45|2022-05-13|2022-03-18|
-|57|[kenzok78/Bulid_Wrt](https://github.com/kenzok78/Bulid_Wrt)|openwrt官方源码纯净编译|44|2022-06-01|2021-09-05|
-|58|[entr0pia/trichromelibrary-squoosh](https://github.com/entr0pia/trichromelibrary-squoosh)|Remove the outdated TrichromeLibrary   移除过时的 TrichromeLibrary |41|2022-06-23|2021-12-09|
-|59|[sudongyuer/react-patterns](https://github.com/sudongyuer/react-patterns)|☄️ React相关der设计模式|40|2022-05-30|2022-02-05|
-|60|[Left024/BiliFavoritesDownloader](https://github.com/Left024/BiliFavoritesDownloader)|自动下载B站收藏视频，支持自动下载封面图，自动转换xml至ass，下载完成自动上传 OneDrive，邮件通知，telegram 通知（实时下载进度查看）|39|2022-04-18|2021-09-13|
-|61|[yhan219/navicat_reset_mac](https://github.com/yhan219/navicat_reset_mac)|navicat16 mac版无限重置试用期脚本|38|2022-05-26|2022-02-25|
-|62|[kkkyg/vpsroot](https://github.com/kkkyg/vpsroot)|一键获取最高root权限，自定义root密码！支持Euserv德鸡，Hax IPV6，甲骨文oracle、谷歌云gpc、IBM Linux one、亚马逊云azurz等VPS|38|2022-02-22|2021-09-09|
-|63|[DHDAXCW/DoorNet_Series](https://github.com/DHDAXCW/DoorNet_Series)|基于 Lean&Lienol 源码的 DoorNet1 的 OpenWrt 固件。|35|2022-07-23|2021-08-14|
-|64|[Misaka-blog/Hysteria-script](https://github.com/Misaka-blog/Hysteria-script)|Hysteria 一键脚本，支持IPv4、IPv6 VPS|32|2022-05-12|2022-05-07|
-|65|[minerhome/mh_tunnel](https://github.com/minerhome/mh_tunnel)|加密隧道流量混淆|32|2022-07-30|2022-02-10|
-|66|[spiritLHLS/ecs](https://github.com/spiritLHLS/ecs)|融合怪测评脚本(测评频道：https://t.me/vps_reviews )(脚本未完善，点star就好了，fork属实没啥必要)|31|2022-08-02|2022-06-09|
-|67|[iwhalecloud-platform/redis-tool](https://github.com/iwhalecloud-platform/redis-tool)|Redis Cluster Daily Maintenance Tool/Redis集群日常运维工具|31|2022-07-22|2022-04-29|
-|68|[huzesama/ASGuard](https://github.com/huzesama/ASGuard)|Magisk模块，用于安卓的无障碍服务(或名:辅助功能)辅助管理模块|30|2022-05-07|2022-04-19|
-|69|[guo-yong-zhi/kindle-filebrowser](https://github.com/guo-yong-zhi/kindle-filebrowser)|在网页管理Kindle的文件|30|2022-07-24|2021-08-27|
-|70|[zhangguanzhang/Actions-OpenWrt](https://github.com/zhangguanzhang/Actions-OpenWrt)|x86_64/r2s/r4s/树莓派4/doornet2/r1s-h5 openwrt 多源码固件在线编译|30|2022-08-02|2021-08-14|
-|71|[tick-guo/openwrt-rom](https://github.com/tick-guo/openwrt-rom)|自动打包openwrt image, 仅含 x86, x64, K2(a), K2P(a). 4种型号.|28|2022-08-01|2021-10-11|
-|72|[tax0x7e7/tax_miner_proxy](https://github.com/tax0x7e7/tax_miner_proxy)|中转服务器挖矿抽水脚本，支持跨矿池抽水|26|2022-05-07|2021-12-27|
-|73|[spiritLHLS/lxc](https://github.com/spiritLHLS/lxc)|母鸡开小鸡，一键多开小鸡，一键多开NAT小鸡，一键LXC虚拟化，一键多开服务器，多开容器，一键多开NAT小鸡，一键多开NAT服务器。(初始化只需几分钟，开小鸡等待时长和数量有关)(免费服务器)|25|2022-07-23|2022-05-04|
-|74|[suminerProxy/suminerProxy](https://github.com/suminerProxy/suminerProxy)|SuMinerProxy是目前市面上最稳定、价格最低(目前固定开发者费用为0%)、功能最全的矿池代理。全面支持专业矿机。支持CC、DDOS防御！！！支持内置抽水！！！支持一键在windows和Linux系统上搭建矿池抽水代理，使用ssl/tcp转发加密传输数据，支持一键屏蔽服务商的监管系统，使你的行为更加安全私密，防止服务器ip被查封。 可拓展匿名代理，保护服务器，防止DDOS攻击，让你的用户更加 ...|25|2022-02-24|2022-01-04|
-|75|[Miuzarte/hijk.sh](https://github.com/Miuzarte/hijk.sh)|v2raytech.com脚本(不全)备份整理, 附带个人自用修复root检测|24|2022-03-31|2021-09-19|
-|76|[DHDAXCW/DoorNet2](https://github.com/DHDAXCW/DoorNet2)|基于 Lean&Lienol 源码的 DoorNet2 的 OpenWrt 固件。|23|2022-07-23|2021-10-28|
+|1|[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)|Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)|24612|2024-07-27|2023-08-28|
+|2|[dockur/windows](https://github.com/dockur/windows)|Windows inside a Docker container.|16003|2024-07-22|2024-01-14|
+|3|[QwenLM/Qwen2](https://github.com/QwenLM/Qwen2)|Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.|6529|2024-07-18|2024-02-05|
+|4|[GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node)|Install and run your own AI agent service|4289|2024-07-26|2024-03-06|
+|5|[DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist)|小雅Alist的相关周边|4016|2024-07-27|2024-01-05|
+|6|[TrionesType/zhuque](https://github.com/TrionesType/zhuque)|朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project|2628|2024-04-10|2023-08-21|
+|7|[olegos2/mobox](https://github.com/olegos2/mobox)|-|2497|2024-07-26|2023-11-23|
+|8|[thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker)|A Docker Container to easily run a Palworld dedicated server.|2397|2024-07-22|2024-01-19|
+|9|[Elegycloud/clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup)|基于Clash Core 制作的Clash For Linux备份仓库      A Clash For Linux Backup Warehouse Based on Clash Core|1844|2024-06-10|2023-11-08|
+|10|[xykt/IPQuality](https://github.com/xykt/IPQuality)|A script for IP quality detection|1648|2024-07-24|2024-04-19|
+|11|[dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy)|🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr等镜像加速\管理服务。支持部署到Render\Koyeb|1140|2024-07-26|2024-06-08|
+|12|[monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya)|💡使用 Docker Compose 以更优雅的方式来部署小雅服务，支持一键部署 Alist + Emby + Jellyfin，全平台支持，Linux/Windows/Mac/群晖，X86/Arm架构|1139|2024-07-22|2024-05-29|
+|13|[fscarmen/sing-box](https://github.com/fscarmen/sing-box)|Sing-box 全家桶 --- 一键多协议脚本|1056|2024-07-11|2023-09-30|
+|14|[Mzdyl/LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install)|针对 LiteLoaderQQNT 的安装脚本|922|2024-07-23|2024-01-21|
+|15|[kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors)|多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.|906|2024-07-19|2024-06-06|
+|16|[notmarek/LanguageBreak](https://github.com/notmarek/LanguageBreak)|A kindle <=5.16.2.1.1 jailbreak|747|2024-06-20|2023-10-27|
+|17|[DoL-Lyra/Lyra](https://github.com/DoL-Lyra/Lyra)|Degrees of Lewdity 整合|727|2024-07-24|2023-09-01|
+|18|[dockur/windows-arm](https://github.com/dockur/windows-arm)|Windows for ARM in a Docker container.|651|2024-07-17|2024-02-03|
+|19|[i-abc/Speedtest](https://github.com/i-abc/Speedtest)|多功能测速脚本   Multi-functional speedtest script|625|2024-04-29|2023-09-03|
+|20|[apernet/tcp-brutal](https://github.com/apernet/tcp-brutal)|-|583|2024-07-26|2023-11-01|
+|21|[wukongdaily/tvhelper-docker](https://github.com/wukongdaily/tvhelper-docker)|让你使用电脑、NAS等一切能运行docker的设备变成盒子的ADB安装助手|555|2024-06-20|2024-02-25|
+|22|[seagullz4/hysteria2](https://github.com/seagullz4/hysteria2)|hysteria2一键安装精简版/hy2一键安装/hysteria2 install/نصب با یک کلیک hysteria2/祝大家万事如意,心想事成|547|2024-07-17|2023-09-14|
+|23|[cockroachai/cockroachai](https://github.com/cockroachai/cockroachai)|一个简单的小程序，用于账号共享。免费但暂不开源。|496|2024-06-14|2023-10-28|
+|24|[RohitVerma882/termux-miunlock](https://github.com/RohitVerma882/termux-miunlock)|A program that can be used to retrieve the bootloader unlock token for Xiaomi devices. (and unlock the bootloader) using Termux|441|2024-07-04|2023-08-03|
+|25|[flagify-com/OctoMation](https://github.com/flagify-com/OctoMation)|OctoMation是一款免费的，具有可视化拖拽功能的编排与自动化产品。通过精心编排的Playbook，OctoMation能够联动数百款安全、网络、IT和SaaS等产品的基础能力。其主要特点包括低代码剧本编排、自动化事件响应、标准化流程操作以及可视化过程监控。  借助OctoMation，运营团队能够开展7x24小时自动化事件响应，不仅可以大幅减少对人员的过度依赖，还能确保团队工作质量始终维持在 ...|424|2024-06-20|2023-09-30|
+|26|[kkbo8005/mitan](https://github.com/kkbo8005/mitan)|密探渗透测试工具包含域名查询，搜索语法，资产测绘（FOFA，Hunter，quake, ZoomEye），指纹识别，敏感信息采集，文件扫描、密码字典等功能|381|2024-06-05|2024-04-03|
+|27|[wukongdaily/tvhelper](https://github.com/wukongdaily/tvhelper)|遥控助手软路由版,适用于OpenWrt系统，包括iStoreOS。其主要作用是帮助安卓原生盒子,解决一些水土不服的小问题。|341|2024-07-03|2024-02-14|
+|28|[2lifetop/Pal-Server-Install](https://github.com/2lifetop/Pal-Server-Install)|幻兽帕鲁服务端一键安装脚本|289|2024-06-28|2024-01-24|
+|29|[lgs2007m/Actions-OpenWrt](https://github.com/lgs2007m/Actions-OpenWrt)|自用|271|2024-07-15|2023-12-15|
+|30|[wukongdaily/OpenBackRestore](https://github.com/wukongdaily/OpenBackRestore)|该项目可以轻松备份iStoreOS已安装的软件和配置,当系统恢复出厂设置或重置后，可以一键恢复原来的软件和配置|233|2024-07-06|2024-03-30|
+|31|[ansoncloud8/am-nodejs-proxy](https://github.com/ansoncloud8/am-nodejs-proxy)|基于 Node.js 的 vless 实现包。它在各种 Node.js 环境中都能运行，包括但不限于：Windows、Linux、MacOS、Android、iOS、树莓派等。同时，它也适用于各种 PaaS 平台，如：replit、heroku 等。|224|2024-07-21|2024-07-06|
+|32|[233boy/sing-box](https://github.com/233boy/sing-box)|最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议|199|2024-06-10|2024-05-22|
+|33|[wukongdaily/diy-nas-onescript](https://github.com/wukongdaily/diy-nas-onescript)|这是一个适用于在debian系统上部署nas常用软件的脚本。它可以帮助用户快速安装想要的软件环境和docker应用。|181|2024-05-22|2023-11-30|
+|34|[yixiu001/serv00-script](https://github.com/yixiu001/serv00-script)|serv00脚本|163|2024-07-24|2024-07-13|
+|35|[RManLuo/FakePosition](https://github.com/RManLuo/FakePosition)|Fake position for IOS17 虚拟定位 支持IOS17|159|2024-02-19|2023-10-09|
+|36|[DHDAXCW/OpenWrt_RockChip](https://github.com/DHDAXCW/OpenWrt_RockChip)|基于 lede-rockchip 源码建构 rockchip 的 OpenWrt 固件。|154|2024-07-23|2024-03-12|
+|37|[fscarmen/sba](https://github.com/fscarmen/sba)|Argo + Sing-box +  CDN for VPS one-click script. 一键脚本 ，Tcp trutal + 多路复用。|154|2024-06-17|2023-10-21|
+|38|[honmashironeko/ARL-docker](https://github.com/honmashironeko/ARL-docker)|基于ARL v2.6.2版本源码，生成docker镜像进行快速部署，同时提供七千多条指纹|153|2024-07-16|2024-05-20|
+|39|[Yanyutin753/unofficial-gpt4-api](https://github.com/Yanyutin753/unofficial-gpt4-api)|一键部署专属于中转gpt-4，回复流畅，支持高并发，小白也能快速使用！unofficial-gpt4-api Transfer gpt-4, smooth response, supports high concurrency, supports one click script deployment, and even novices can use it quickly!|147|2024-07-05|2024-01-29|
+|40|[gebangfeng/docker-mirror](https://github.com/gebangfeng/docker-mirror)|整理各大docker,容器镜像仓库的国内镜像源|146|2024-07-10|2024-05-16|
+|41|[LLOneBot/llonebot-docker](https://github.com/LLOneBot/llonebot-docker)|一键部署基于NTQQ的OneBot协议的Bot容器|146|2024-05-10|2024-02-24|
+|42|[honmashironeko/sqlmap-gui](https://github.com/honmashironeko/sqlmap-gui)|基于SQLmap工具进行汉化，并提供GUI界面|140|2024-05-17|2024-01-29|
+|43|[LuminolMC/Luminol](https://github.com/LuminolMC/Luminol)|轻量级、优化且功能齐全的 Folia 分支，专为生存和无政府状态服务器而设计|134|2024-07-23|2023-11-26|
+|44|[okxlin/docker-1panel](https://github.com/okxlin/docker-1panel)|Docker方式运行的1Panel；1Panel running in Docker|114|2024-05-07|2023-08-19|
+|45|[i-abc/GB5](https://github.com/i-abc/GB5)|Geekbench 5 专测   A script for Geekbench 5 benchmarking|106|2024-05-28|2023-07-31|
+|46|[7Ji-PKGBUILDs/wechat-universal-bwrap](https://github.com/7Ji-PKGBUILDs/wechat-universal-bwrap)|微信（Universal）ArchLinux打包|103|2024-07-10|2024-03-08|
+|47|[cmliu/CloudFlareIPlus](https://github.com/cmliu/CloudFlareIPlus)|自动获取 AS209242 CIDR 并验证最新 CloudFlareCDN IP|92|2024-03-22|2023-12-21|
+|48|[suifei/fridare](https://github.com/suifei/fridare)|强大的 Frida 重打包工具，用于 iOS 和 Android。轻松修改 Frida 特征，增强隐蔽性，绕过检测。简化逆向工程和安全测试。Powerful Frida repackaging tool for iOS and Android. Easily modify Frida servers to enhance stealth and bypass detection. Streamli ...|91|2024-07-19|2024-06-21|
+|49|[sublaim/clouddrive2](https://github.com/sublaim/clouddrive2)|clouddrive2 一键安装脚本|91|2024-03-11|2023-10-27|
+|50|[LinxiDev/LinxiPush](https://github.com/LinxiDev/LinxiPush)|青龙脚本仓库|90|2024-07-09|2023-11-07|
+|51|[wanghongenpin/Magisk-ProxyPinCA](https://github.com/wanghongenpin/Magisk-ProxyPinCA)|Magisk模块ProxyPin系统证书|87|2024-06-27|2023-09-22|
+|52|[mylxsw/aidea-docker](https://github.com/mylxsw/aidea-docker)|本项目为 AIdea 项目的一键部署安装包，基于 docker compose。|84|2024-05-22|2023-11-29|
+|53|[KoolCore/Proxmox_VE_Status](https://github.com/KoolCore/Proxmox_VE_Status)|开源 Proxmox VE 网页后台添加处理器、NVMe、SSD 的温度和负载信息的脚本工具。|84|2024-02-27|2023-11-12|
+|54|[lyy0709/cockroachai-oauth](https://github.com/lyy0709/cockroachai-oauth)|对接cockroachai的免费第三方账户系统，暂未开源后续升级ui在开源|81|2024-06-13|2024-03-08|
+|55|[huntingsec/ARL-Limited-Edition](https://github.com/huntingsec/ARL-Limited-Edition)|原汁原味的ARL灯塔，在基础上进行了魔改优化|78|2024-07-03|2024-06-11|
+|56|[ypq123456789/TrafficCop](https://github.com/ypq123456789/TrafficCop)|监控VPS流量使用，到达限制自动限流/关机，保留SSH端口可用|77|2024-07-20|2024-06-29|
+|57|[robotneo/networkdevice-monitor](https://github.com/robotneo/networkdevice-monitor)|基于Prometheus + SNMP Exporter对网络设备的监控|76|2024-05-30|2023-09-19|
+|58|[debuggerx01/fcitx5_customizer](https://github.com/debuggerx01/fcitx5_customizer)|Fcitx5定制优化脚本|72|2024-06-07|2023-09-15|
+|59|[TrueTechLabs/fabric-trace](https://github.com/TrueTechLabs/fabric-trace)|基于区块链Hyperledger Fabric V2.5的农产品溯源/商品/通用溯源应用模板，部署简单，附压测工具、区块链浏览器，文档详细。可以快速使用本系统搭建自己的溯源系统，帮助想法快速落地。|71|2024-06-21|2024-02-28|
+|60|[sun977/linuxcheckshoot](https://github.com/sun977/linuxcheckshoot)|linux应急响应检查脚本单机终极版|67|2024-07-23|2023-08-20|
+|61|[CNflysky/redroid-rk3588](https://github.com/CNflysky/redroid-rk3588)|Redroid Image For RK3588 with Multiple Features   适用于RK3588的Redroid镜像，包含多种功能|66|2024-07-23|2024-02-29|
+|62|[OwlOooo/Owl-Panel](https://github.com/OwlOooo/Owl-Panel)|猫头鹰节点订阅面板|59|2024-07-18|2024-06-07|
+|63|[Lynn-Becky/v6_only](https://github.com/Lynn-Becky/v6_only)|一个在仅ipv6的系统上一键获得双栈访问能力的脚本|58|2024-02-24|2023-12-31|
+|64|[eooce/Sing-box](https://github.com/eooce/Sing-box)|既然来了，就留下你的Star吧！sing-box游戏机(reality + hy2 + vmess-argo +tuic5)四合一，vps无交互一键安装脚本(已适配Alpine)|55|2024-07-21|2023-09-30|
+|65|[YanWenKun/ComfyUI-Windows-Portable](https://github.com/YanWenKun/ComfyUI-Windows-Portable)|🎨ComfyUI standalone pack with 30+ custom nodes.   ComfyUI 大号整合包，预装大量自定义节点（不含SD模型）|53|2024-07-23|2024-03-25|
+|66|[issaccv/aiops24-RAG-demo](https://github.com/issaccv/aiops24-RAG-demo)|用于AIOPS24挑战赛的Demo|49|2024-06-21|2024-04-17|
+|67|[AiKirito/Rom-Mod-Tool](https://github.com/AiKirito/Rom-Mod-Tool)|一个简单的 shell，快速选择精简 ROM 镜像文件中的项目，以及一些快捷功能，目前支持 ONEUI, HEYPEROS|48|2024-06-04|2024-04-08|
+|68|[Theo-Messi/dotfiles](https://github.com/Theo-Messi/dotfiles)|-|47|2024-07-25|2023-09-04|
+|69|[zhufengme/GPTCommit](https://github.com/zhufengme/GPTCommit)|A Script to Automatically Generate Git Commit Messages Using GPT|46|2024-06-19|2024-05-27|
+|70|[rehiy/dailyhot-docker](https://github.com/rehiy/dailyhot-docker)|汇聚全网热点，热门尽览无余|46|2024-04-05|2024-01-31|
+|71|[eooce/all-games](https://github.com/eooce/all-games)|本项目针对不同的游戏类型、环境搭建节点，持续更新，建议收藏，部署前请仔细看完说明|46|2024-05-14|2023-10-31|
+|72|[LuminolMC/LightingLuminol](https://github.com/LuminolMC/LightingLuminol)|Luminol的分支，旨在 Folia 上运行更多 bukkit 插件|45|2024-07-23|2024-01-02|
+|73|[shiyu1314/openwrt-onecloud](https://github.com/shiyu1314/openwrt-onecloud)|Openwrt for onecloud. 玩客云用的openwrt|45|2024-05-23|2023-11-06|
+|74|[shencangsheng/easy-registry-mirror](https://github.com/shencangsheng/easy-registry-mirror)|在国内日渐严峻的网络下，无论是公司还是个人，自建仓库都是非常有必要的，这个项目用于快速搭建一个Docker私有仓库，并且无需修改已运行的Dockerfile/docker-compose.yaml，几乎没有迁移成本；未来会支持更多npm、Maven、PyPI等仓库。|44|2024-07-25|2024-06-14|
+|75|[Aethersailor/OpenWrt-AutoUpdateHosts](https://github.com/Aethersailor/OpenWrt-AutoUpdateHosts)|在 OpenWrt 下实现定时自动合并广告拦截规则以及其他加速规则至 hosts 文件，并自动重启 OpenClash 和 Dnsmasq，无需套娃其他插件即可利用 Dnsmasq 实现去广告以及 GitHub 加速功能|43|2024-07-27|2024-05-05|
+|76|[WukongMaster/OpenWrt-Mini](https://github.com/WukongMaster/OpenWrt-Mini)|OpenWrt-Mini   急速精简版|42|2024-07-27|2023-12-22|
+|77|[oneclickvirt/6in4](https://github.com/oneclickvirt/6in4)|Self-build IPv6-in-IPv4 Tunnel Server --- 自建IPv6-in-IPv4隧道服务器 |42|2024-06-13|2023-10-24|
+|78|[ZhangJinhui-baoji/MCC](https://github.com/ZhangJinhui-baoji/MCC)|一个控制Magisk模块配置文件应用|41|2024-03-08|2023-12-26|
+|79|[JiuXia2025/SwitchScript](https://github.com/JiuXia2025/SwitchScript)|九夏大气层整合包自动构建|40|2024-06-27|2024-01-10|
+|80|[217heidai/NestingDNS](https://github.com/217heidai/NestingDNS)|AdGuardHome、MosDNS、SmartDNS 套娃使用实践|40|2024-07-09|2024-01-09|
+|81|[VIKINGYFY/CloseWRT-CI](https://github.com/VIKINGYFY/CloseWRT-CI)|云编译CloseWRT闭源固件|40|2024-07-24|2023-12-03|
+|82|[Misaka-blog/juicity-script](https://github.com/Misaka-blog/juicity-script)|Juicity 协议一键部署脚本|40|2024-04-28|2023-08-21|
+|83|[guandasheng/TheBestAdrules](https://github.com/guandasheng/TheBestAdrules)|TheBestAdrules，适用于Adguard Home的去广告dns规则，由关圣整理上游优秀的规则，合并去重而来，集百家之所长，取其精华去其糟粕。 关圣DNS官网https://dns.dns1.top 官方微信群及QQ群见官网公布。 关圣DNS，一个人人可加入的公益去广告dns团队，目前拥有7条公益dns节点。 捐赠，或者提供服务器均可加入“关圣爱发电”团队。  由于目前网络上发布的规则众 ...|39|2024-07-13|2023-12-30|
+|84|[V-Official-233/halo-PaaS](https://github.com/V-Official-233/halo-PaaS)|将 halo 博客部署在Zeabur、Serv00、railway、render、Northflank、Koyeb、CodeSandbox等PaaS平台|39|2024-07-24|2023-08-03|
+|85|[miaowmint/palworld](https://github.com/miaowmint/palworld)|帕鲁世界服务端一键安装脚本|36|2024-02-05|2024-01-24|
+|86|[wojiushixiaobai/1Panel-installer](https://github.com/wojiushixiaobai/1Panel-installer)|1Panel 离线安装包|36|2024-07-24|2023-11-01|
+|87|[zrlhk/alpine-hysteria2](https://github.com/zrlhk/alpine-hysteria2)|在alpine中安装hysteria2|33|2024-03-01|2024-03-01|
+|88|[yangjian102621/geekai-plus](https://github.com/yangjian102621/geekai-plus)|基于ChatGPT-PLUS 项目开发的高级版，增加了很多高级功能，比如思维导图，Dalle 绘画等。高级版的部分功能会逐步迁移到社区版。|32|2024-05-30|2024-04-23|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

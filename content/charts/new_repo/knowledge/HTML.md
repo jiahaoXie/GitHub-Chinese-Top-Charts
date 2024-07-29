@@ -1,42 +1,31 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > HTML
-<sub>数据更新: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension)|全国各省市停贷通知汇总|19804|2022-08-02|2022-07-12|
-|2|[PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)|计算机自学指南|10886|2022-07-26|2021-10-20|
-|3|[qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)|《Software Engineering at Google》的中文翻译版本|2544|2022-07-28|2021-11-28|
-|4|[HZFE/awesome-interview](https://github.com/HZFE/awesome-interview)|剑指前端 Offer|1928|2022-07-04|2021-08-23|
-|5|[flutterchina/flutter_in_action_2nd](https://github.com/flutterchina/flutter_in_action_2nd)|《Flutter实战 第二版》- 书稿（未完成）|756|2022-05-10|2021-08-29|
-|6|[luckyzhz/Software-Designer](https://github.com/luckyzhz/Software-Designer)|软考中级教程-软件设计师|335|2022-04-13|2021-12-22|
-|7|[sqlsec/Hackintosh](https://github.com/sqlsec/Hackintosh)|国光的黑苹果安装教程：手把手教你配置 OpenCore|224|2022-05-06|2021-09-15|
-|8|[teamssix/twiki](https://github.com/teamssix/twiki)|T Wiki 云安全知识文库，可能是国内首个云安全知识文库？|168|2022-05-13|2022-04-15|
-|9|[fltenwall/web3-awesome](https://github.com/fltenwall/web3-awesome)|web3百科全书👏🏻 打造 web3 全球第一中文资源|157|2022-05-13|2022-04-14|
-|10|[lanbao2021/share](https://github.com/lanbao2021/share)|分享蓝同学收集的软件资源、使用心得...|144|2022-07-07|2022-02-11|
-|11|[jaywcjlove/regexp-example](https://github.com/jaywcjlove/regexp-example)|正则表达式实例搜集，通过实例来学习正则表达式。|131|2022-07-12|2021-11-15|
-|12|[crithes/gaojieDoc](https://github.com/crithes/gaojieDoc)|crithesJie的博客文档|103|2022-05-18|2022-02-28|
-|13|[sanyuan0704/juejin-book-vite](https://github.com/sanyuan0704/juejin-book-vite)|《深入浅出 Vite》掘金小册代码示例仓库|92|2022-05-15|2021-12-17|
-|14|[uiuing/VARBook](https://github.com/uiuing/VARBook)|适合中文程序员的变量命名助手，NLP+翻译，规范变量命名，定制化变量命名规则|75|2022-07-20|2021-12-30|
-|15|[howie6879/weekly](https://github.com/howie6879/weekly)|老胡的周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。|66|2022-08-01|2021-09-17|
-|16|[NJUPTFreeExams/NJUPT-CS-FREE](https://github.com/NJUPTFreeExams/NJUPT-CS-FREE)|南京邮电大学计软网安院学习资料。Covers all materials for CST, SE, and InfoSec majors.|64|2022-06-21|2021-08-29|
-|17|[eddycjy/go-design-book](https://github.com/eddycjy/go-design-book)|《Go 语言设计哲学》|57|2022-05-04|2021-12-26|
-|18|[su37josephxia/frontend-interview](https://github.com/su37josephxia/frontend-interview)|前端面试知识点|55|2022-02-06|2021-09-03|
-|19|[NianBroken/Firework_Simulator](https://github.com/NianBroken/Firework_Simulator)|烟花模拟器，一个模拟放烟花的网页，基于XgpNwb的二次修改，我仅作翻译处理以及其他优化|52|2022-02-03|2022-01-30|
-|20|[ohnonoyesyes/zsxq_dl](https://github.com/ohnonoyesyes/zsxq_dl)|星球伴侣（无限下载版） - 知识星球助手|48|2022-02-26|2022-02-26|
-|21|[ZGQ-inc/source](https://github.com/ZGQ-inc/source)|个人搜集   书源、图源、订阅源、规则、直播源、各种源 大型整合|43|2022-08-01|2022-04-20|
-|22|[liuzhijun-source/spacemacs-14-days](https://github.com/liuzhijun-source/spacemacs-14-days)|一个 Spacemacs 的入门教程|43|2022-04-10|2021-09-20|
-|23|[acdzh/douban-book-api](https://github.com/acdzh/douban-book-api)|第三方豆瓣读书 api 接口|43|2022-05-18|2021-08-22|
-|24|[buynao/stackoverflow-js-top-qa](https://github.com/buynao/stackoverflow-js-top-qa)|stackoverflow上javascript热门回答整理翻译|40|2022-04-17|2022-02-12|
-|25|[Littlefean/SmartPython](https://github.com/Littlefean/SmartPython)|python小技巧系列源代码——来自b站视频|39|2022-07-14|2022-06-17|
-|26|[qinxs/Ease-Bookmarks](https://github.com/qinxs/Ease-Bookmarks)|简单易用的书签管理器|39|2022-03-14|2021-12-04|
-|27|[MikesWei/wechat-blog](https://github.com/MikesWei/wechat-blog)|分享Cesium、three.js等开发技术使用心得、经验，附带一些源码|30|2022-02-23|2021-09-16|
-|28|[imhlq/EldenRingCheatSheetCN](https://github.com/imhlq/EldenRingCheatSheetCN)|艾尔登法环实用手册项目 Checklist Cheatsheet|29|2022-07-03|2022-03-14|
-|29|[Brx86/DingZhen](https://github.com/Brx86/DingZhen)|一眼丁真合集与Api，目前已收集502张|27|2022-05-12|2022-04-02|
-|30|[linuxhitchhiker/THGLG](https://github.com/linuxhitchhiker/THGLG)|The Hitchhiker's Guide to the Linux : Linux 漫游指南|24|2022-05-18|2022-01-15|
-|31|[damit5/damit5.github.io](https://github.com/damit5/damit5.github.io)|个人部分知识总结|23|2022-06-25|2021-12-18|
-|32|[tianxily/free](https://github.com/tianxily/free)|每天免费分享Clash，V2ray，包含ss，trojan，vmess等主流格式，TG搜索@tianxifree，记得把Star点亮|20|2022-07-01|2022-02-14|
+|1|[Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)|一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事|2930|2024-07-07|2024-06-26|
+|2|[qiye45/wechatDownload](https://github.com/qiye45/wechatDownload)|微信公众号文章批量下载工具，支持图片、评论下载，支持保存html/mhtml/md/pdf/docx文件|2529|2024-07-21|2023-08-02|
+|3|[wdndev/llm_interview_note](https://github.com/wdndev/llm_interview_note)|主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题|1680|2024-06-02|2023-11-08|
+|4|[naxiaoduo/1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)|1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。|1309|2024-07-13|2024-04-07|
+|5|[HFUT-CHEATER/HFUTCheaterCollection](https://github.com/HFUT-CHEATER/HFUTCheaterCollection)|Hefei University of Technology 投稿、举报、监督、咨询Email:hfutcheater@proton.me https://hfutcheater.gitbook.io/hfutcheater   https://hfut-cheater.github.io 合肥工业大学 安徽 作弊 造假 贪污 论文抄袭 贿赂 包庇 权力寻租 挪用基金 组织舞弊 越南留学生反华 南 ...|852|2024-07-11|2024-02-22|
+|6|[bojone/papers.cool](https://github.com/bojone/papers.cool)|Cool Papers - Immersive Paper Discovery|308|2024-07-12|2024-01-02|
+|7|[wuhobin/blog-home](https://github.com/wuhobin/blog-home)|一个干净简洁的个人作品集合主页|210|2024-04-14|2024-01-10|
+|8|[DND5eChm/DND5e_chm](https://github.com/DND5eChm/DND5e_chm)|这是《5E不全书》，即DND5e已翻译资源的整合，不是《5E全书》，也不以任何人的名字署名！|113|2024-07-27|2023-11-06|
+|9|[HIT-FC-OpenCS/CS_Courses](https://github.com/HIT-FC-OpenCS/CS_Courses)|哈尔滨工业大学计算学部金牌讲师团课程资料共享   Guidance for courses, faculty of computing, Harbin Institute of Technology |109|2024-07-21|2024-01-06|
+|10|[FeijiangHan/CSU-CS-review-materials](https://github.com/FeijiangHan/CSU-CS-review-materials)|CSU - CS期末备考复习资料；中南大学计科&计算机复习; Review material; Central South University|109|2024-07-03|2023-09-10|
+|11|[HCPLab-SYSU/Book-of-MLM](https://github.com/HCPLab-SYSU/Book-of-MLM)|《多模态大模型：新一代人工智能技术范式》作者：刘阳，林倞 |72|2024-06-07|2024-02-22|
+|12|[bfengj/Cloud-Security](https://github.com/bfengj/Cloud-Security)|记录自己在云安全上的学习笔记等。|59|2024-06-11|2023-11-05|
+|13|[BYJRK/CommunityToolkit.Mvvm_ZeroToHero](https://github.com/BYJRK/CommunityToolkit.Mvvm_ZeroToHero)|CommunityToolkit.Mvvm 从入门到精通|56|2024-06-14|2024-01-04|
+|14|[oldgerman/mR-71-RE](https://github.com/oldgerman/mR-71-RE)|mR-71 重制版的制造文件（mR-71 Remastered version manufacturing files）|43|2024-06-24|2024-03-17|
+|15|[drmingdrmer/openstudy](https://github.com/drmingdrmer/openstudy)|在校学习的资料|39|2024-05-01|2023-11-25|
+|16|[lisuid2/lisuid2.github.io](https://github.com/lisuid2/lisuid2.github.io)|博客|35|2024-04-20|2024-01-18|
+|17|[wdndev/mllm_interview_note](https://github.com/wdndev/mllm_interview_note)|主要记录大语言大模型（LLMs） 算法（应用）工程师多模态相关知识|32|2024-05-12|2024-03-02|
+|18|[Joining-AI/LLM_Interview_Prepare](https://github.com/Joining-AI/LLM_Interview_Prepare)| 本仓库是关于大模型面试中常见面试试题和面试经验的整理。这里收集了各类与大模型相关的面试题目，并提供详细的解答和分析。本仓库由上海交大交影科技维护，网址https://sjtujoining.com|29|2024-07-27|2024-06-28|
+|19|[cooip-jm/About-openwrt](https://github.com/cooip-jm/About-openwrt)|一些关于Openwrt 相关的资料|27|2024-07-10|2023-09-30|
+|20|[Howardzhangdqs/zhihu-copy-as-markdown](https://github.com/Howardzhangdqs/zhihu-copy-as-markdown)|一键复制知乎文章/回答为Markdown，下载文章/回答为zip（包含素材图片与文章/回答信息），备份你珍贵的回答与文章。|19|2024-03-22|2023-11-01|
+|21|[alphardex/webgl-shader-book-code](https://github.com/alphardex/webgl-shader-book-code)| 《WebGL Shader 魔法指南：创意图形编程入门》小册源代码|18|2024-03-13|2023-09-12|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

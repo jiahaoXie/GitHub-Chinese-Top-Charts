@@ -1,30 +1,47 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Lua
-<sub>数据更新: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua)|Neovim 配置实战：从 0 到 1 打造自己的 IDE|301|2022-04-02|2021-11-02|
-|2|[linkease/istore](https://github.com/linkease/istore)|一个 Openwrt 标准的软件中心，纯脚本实现，无二进制依赖。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|169|2022-03-24|2021-08-24|
-|3|[Eatsolx/nvim-lua](https://github.com/Eatsolx/nvim-lua)|基于nvchad的配置|25|2022-03-26|2021-10-02|
-|4|[ainrm/safeGate](https://github.com/ainrm/safeGate)|一个基于openresty开发的安全网关demo|19|2022-03-03|2022-02-11|
-|5|[yuanyan3060/Arknights-Bot-Resource](https://github.com/yuanyan3060/Arknights-Bot-Resource)|明日方舟bot常用素材|14|2022-04-01|2021-11-28|
-|6|[yechentide/DSTServerManager](https://github.com/yechentide/DSTServerManager)|Don't Starve Together dedicated server manager / 饥荒傻瓜式服务器管理脚本 / Bug反馈QQ群927694504 / 准备使用Go语言写个TUI版本 <-- 已放弃hh|14|2022-03-25|2021-11-27|
-|7|[zhandouxiaojiji/skynet-creator](https://github.com/zhandouxiaojiji/skynet-creator)|skynet脚手架|9|2022-02-13|2022-01-22|
-|8|[hanxi/skynet-admin](https://github.com/hanxi/skynet-admin)|skynet 管理后台|9|2022-03-29|2021-12-22|
-|9|[d80x86/lua-resty-tofu](https://github.com/d80x86/lua-resty-tofu)|a modern api/web framework|9|2022-03-15|2021-08-23|
-|10|[copy0401/irime-bopomo-config](https://github.com/copy0401/irime-bopomo-config)|iRime 設定 新增注音輸入法 及 注音鍵盤主題|8|2022-04-02|2021-09-20|
-|11|[alawing/WhitePaws](https://github.com/alawing/WhitePaws)|[插件][白爪cksky助手]熊猫一键,自动解定身,飞行饰品和马鞭,回能回蓝监控|6|2022-02-28|2021-09-14|
-|12|[ZhChessOvO/chessBot_plugins](https://github.com/ZhChessOvO/chessBot_plugins)|闲来无聊做的qq聊天机器人“象棋”的插件等|5|2022-04-03|2022-03-22|
-|13|[tickbh/luojiawaf_lua](https://github.com/tickbh/luojiawaf_lua)|luojia waf openresty Web Application Firewall or API Gateway(应用防火墙/API网关) |5|2022-04-02|2022-03-14|
-|14|[PlexPt/factorio-chinese](https://github.com/PlexPt/factorio-chinese)|factorio 开源中文汉化语言包|5|2022-03-31|2022-01-14|
-|15|[super-goodman/lua-script](https://github.com/super-goodman/lua-script)|lua 脚本|5|2022-03-19|2021-08-06|
-|16|[lirenchong/Rime_Settings](https://github.com/lirenchong/Rime_Settings)|Rime 输入法从简单到复杂的一套自用配置，会去隐私后不定时更新|4|2022-02-07|2022-02-05|
-|17|[chwt163/Mpv.netRrightClickMenuCN](https://github.com/chwt163/Mpv.netRrightClickMenuCN)|mpv.net 的中文右键菜单，以及 mpv osc.lua 主题外观|4|2022-03-23|2021-12-01|
-|18|[LYJ09X/V2ray-Pro](https://github.com/LYJ09X/V2ray-Pro)|免费梯子|4|2022-03-30|2021-08-05|
-|19|[sudoskys/Gitpuller](https://github.com/sudoskys/Gitpuller)|使用Androlua实现的一款Github&gitee手机浏览实例，包含GIThub api 类库封装，欢迎贡献|3|2022-02-16|2022-02-01|
-|20|[Miaow233/Dingtalk_createLike](https://github.com/Miaow233/Dingtalk_createLike)|一个钉钉点赞小工具，使用FusionApp制作|3|2022-02-26|2021-09-05|
+|1|[ejoy/vaststars](https://github.com/ejoy/vaststars)|A game demo for Ant engine|557|2024-07-22|2024-02-06|
+|2|[AegirTech/ArkLights](https://github.com/AegirTech/ArkLights)|明日方舟速通 arknights|356|2024-05-25|2023-08-25|
+|3|[gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma)|墨奇音形，打造最强双拼辅助码rime输入方案。基于雾凇词库，支持小鹤双拼、自然码双拼、搜狗双拼、微软双拼等多种双拼，辅助码支持墨奇码（原创拆分开源支持4万字）、自然码部首辅、小鹤音形（鹤形辅），支持整句/字词输入。不认识的字可以笔画、部件拆字、仓颉码反查。支持aw、aj模式输入英文、日文，支持双拼并击输入、emoji、快符、日期、大写数字、计算器等高级功能。雾凇鹤 雾凇自然 墨奇码 墨奇音形|246|2024-07-27|2024-01-25|
+|4|[Afool4U/Logi_purgatory_macro](https://github.com/Afool4U/Logi_purgatory_macro)|罗技G系列炼狱宏|199|2024-03-31|2023-08-04|
+|5|[boluokk/e7Helper](https://github.com/boluokk/e7Helper)|【EPIC】第七史诗多功能覆盖脚本(刷书签🍃，挂讨伐、后记、祭坛✌️，挂JJC等📛，多服务器支持📺，qq机器人消息通知📩)|138|2024-07-15|2023-09-09|
+|6|[gaboolic/rime-frost](https://github.com/gaboolic/rime-frost)|白霜词库：蒹葭苍苍，白露为霜。基于雾凇拼音重制的，更纯净、词频准确、智能的词库。使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化。白霜词库是目前rime方案下最好的词库，在不使用智能模型的情况下可以超越使用智能模型的词库方案。目前使用白霜词库的方案有：墨奇音形（双拼辅）https://github.com/gaboolic/rime-shuangpin-fuzhuma 、 ...|90|2024-07-27|2024-06-07|
+|7|[geezmolycos/lizard-pet](https://github.com/geezmolycos/lizard-pet)|love2d 编写的桌宠，目前实现了一只飞龙，使用程序动态生成的动画，自然流畅（至少希望是这样）。|52|2024-05-16|2024-03-17|
+|8|[HowcanoeWang/rime-lua-aux-code](https://github.com/HowcanoeWang/rime-lua-aux-code)|RIME输入法辅助码音形分离插件|52|2024-07-06|2023-10-14|
+|9|[happyDom/dyyRime](https://github.com/happyDom/dyyRime)|这是dyy个人使用的rime输入法的配置包，欢迎测试指正|30|2024-07-05|2024-01-08|
+|10|[MoonforDream/CSGO-Pressure-GUN](https://github.com/MoonforDream/CSGO-Pressure-GUN)|CSGO 罗技鼠标压枪宏文件 cs2亲测有效！！！|30|2024-02-01|2024-01-06|
+|11|[Afool4U/logi_fake_date](https://github.com/Afool4U/logi_fake_date)|永久破解lua宏时间限制|29|2024-07-01|2024-06-12|
+|12|[mirtlecn/rime-radical-pinyin](https://github.com/mirtlecn/rime-radical-pinyin)|RIME 汉字部件拆字   全拼双拼输入方案。笔画、部首、音调反查辅码 lua。|28|2024-06-04|2024-03-28|
+|13|[INotGreen/Xiebro-Plugins](https://github.com/INotGreen/Xiebro-Plugins)|xiebroC2 plugin|26|2024-06-17|2024-02-18|
+|14|[sbsrf/sbsrf](https://github.com/sbsrf/sbsrf)|声笔输入法|19|2024-07-12|2024-01-30|
+|15|[mirtlecn/rime-radical-pinyin](https://github.com/mirtlecn/rime-radical-pinyin)|Rime 汉语拆字   拼音输入方案（全拼双拼）|18|2024-03-27|2024-01-11|
+|16|[hanzi-chai/rime-snow-pinyin](https://github.com/hanzi-chai/rime-snow-pinyin)|【冰雪拼音】输入方案|16|2024-07-06|2024-04-16|
+|17|[geektcp/UeCore-interface](https://github.com/geektcp/UeCore-interface)|一起魔兽世界插件|16|2024-04-14|2023-12-02|
+|18|[YukiIsait/WeaselSchemaSetup](https://github.com/YukiIsait/WeaselSchemaSetup)|小狼毫输入法配置方案整合包，整合了雾凇拼音和空山五笔方案，做到了配置方案的一键安装，为初入中州韵输入法的小白提供便利。|15|2024-07-25|2024-06-04|
+|19|[Guobamao/Budaolepao](https://github.com/Guobamao/Budaolepao)|一个步道乐跑的GG修改器脚本|15|2024-03-14|2023-10-29|
+|20|[lwb1978/openwrt-gecoosac](https://github.com/lwb1978/openwrt-gecoosac)|集客无线 AC 控制器 OpenWRT 插件|14|2024-07-14|2024-06-17|
+|21|[mrshiqiqi/rime-wubi](https://github.com/mrshiqiqi/rime-wubi)|Rime五笔|14|2024-05-29|2024-04-30|
+|22|[najoast/eluna_scripts](https://github.com/najoast/eluna_scripts)|魔兽世界Lua脚本。Lua scripts for WoW Eluna Lua Engine. |14|2024-03-10|2023-12-21|
+|23|[liubianshi/cmp-lsp-rimels](https://github.com/liubianshi/cmp-lsp-rimels)|让 Neovim 下的中英文混合输入无比丝滑|13|2024-07-16|2024-03-24|
+|24|[milkory/rsns-data](https://github.com/milkory/rsns-data)|雷索纳斯 游戏数据|13|2024-07-26|2024-03-12|
+|25|[shadow3aaa/fas-rs-extension-module-template](https://github.com/shadow3aaa/fas-rs-extension-module-template)|fas-rs插件的模板仓库。Template repository for fas-rs extension.|13|2024-07-23|2024-01-28|
+|26|[gaboolic/rime-wubi-sentence](https://github.com/gaboolic/rime-wubi-sentence)|rime 墨奇版 五笔整句输入方案   虎码整句输入方案。墨奇五笔整句 墨奇虎码整句 基于墨奇音形和白霜词库|11|2024-07-21|2024-06-18|
+|27|[y3-editor/y3-helper](https://github.com/y3-editor/y3-helper)|Y3地图开发环境助手（VSCode扩展）|11|2024-06-03|2023-11-01|
+|28|[noearc/jieba.nvim](https://github.com/noearc/jieba.nvim)|基于jieba-lua的neovim中文词跳转|11|2024-07-07|2023-10-28|
+|29|[Elflare/rime-zrlong](https://github.com/Elflare/rime-zrlong)|自然龙 - 基于 Rime 的带调、双拼、音形输入方案|10|2024-06-30|2024-04-15|
+|30|[haixiaoma/Video_to_Srt](https://github.com/haixiaoma/Video_to_Srt)|一款基于百度语音技术的视频字幕生成工具。可以选择本地视频生成中文/英文字幕文件（.srt），并提供字幕文件双语翻译功能和本地视频播放功能。|10|2024-03-11|2024-03-11|
+|31|[justice2001/luci-app-multi-frpc](https://github.com/justice2001/luci-app-multi-frpc)|支持多服务端的Frp Openwrt插件|9|2024-03-06|2023-12-20|
+|32|[Kicamon/im-switch.nvim](https://github.com/Kicamon/im-switch.nvim)|neovim的输入法自动切换插件，在写文档以及代码注释的时候可以自动帮忙切换输入法|9|2024-07-08|2023-08-04|
+|33|[WOWRainbowUI/RainbowUI-Retail](https://github.com/WOWRainbowUI/RainbowUI-Retail)|彩虹ui 整合包 (巨龍崛起)|8|2024-07-27|2023-12-21|
+|34|[Ashro-one/Ashro_assets](https://github.com/Ashro-one/Ashro_assets)|用于企业资产梳理，资产自查的通用工作脚本，实现端口核查，弱口令扫描，资产服务识别，web资产识别|7|2024-07-03|2024-05-17|
+|35|[wzxmer/rime-txjx](https://github.com/wzxmer/rime-txjx)|星空键道6拓展版➡天行键|7|2024-07-04|2023-10-17|
+|36|[exp-3/ufi-project_diffindo](https://github.com/exp-3/ufi-project_diffindo)|OpenZxicEditor：一个 POSIX 兼容的 ufiStudio ZXIC-RomKit 开源分支|6|2024-05-25|2024-04-23|
+|37|[yhzx233/FixChunkLeak](https://github.com/yhzx233/FixChunkLeak)|修复玩家携带地图导致的区块在玩家离开后不释放|6|2024-02-14|2023-08-23|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

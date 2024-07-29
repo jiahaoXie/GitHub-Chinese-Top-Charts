@@ -1,24 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Shell
-<sub>数据更新: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Cats-Team/AdRules](https://github.com/Cats-Team/AdRules)|List of ad filters based on Chinese locale. 基于中文区的广告规则|783|2022-08-02|2021-08-06|
-|2|[haixiangyan/jest-tutorial](https://github.com/haixiangyan/jest-tutorial)|🃏《Jest 实践指南》|566|2022-07-08|2022-04-24|
-|3|[rootsongjc/kubernetes-hardening-guidance](https://github.com/rootsongjc/kubernetes-hardening-guidance)|《Kubernetes 加固手册》（美国国家安全局出品）- https://jimmysong.io/kubernetes-hardening-guidance|460|2022-03-13|2021-08-08|
-|4|[bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese)|🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。|387|2022-07-27|2022-03-04|
-|5|[Petit-Abba/backup_script_zh-CN](https://github.com/Petit-Abba/backup_script_zh-CN)|数据备份脚本 简体中文版|339|2022-05-15|2021-09-08|
-|6|[AlphabugX/csOnvps](https://github.com/AlphabugX/csOnvps)|CobaltStrike4.4 一键部署脚本 随机生成密码、key、端口号、证书等，解决cs4.x无法运行在Linux上报错问题 灰常银杏化设计|234|2022-03-19|2021-12-02|
-|7|[overmind1980/oeasypython](https://github.com/overmind1980/oeasypython)|面向初学者的简明易懂的 Python3 课程，对没有编程经验的同学也非常友好。在vim下从浅入深，逐步学习。|218|2022-05-11|2021-08-04|
-|8|[rootsongjc/opentelemetry-obervability](https://github.com/rootsongjc/opentelemetry-obervability)|《OpenTelemetry 可观测性的未来》  O'Reilly 报告 |118|2022-05-19|2022-02-05|
-|9|[Misaka-blog/acme-1key](https://github.com/Misaka-blog/acme-1key)|Acme.sh 域名证书一键申请脚本|102|2022-05-01|2021-12-31|
-|10|[binghe001/BingheGuide](https://github.com/binghe001/BingheGuide)|📚 本代码库是作者冰河多年从事互联网大厂开发、架构的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容、底层原理、架构知识、渗透技术。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！|94|2022-07-25|2022-03-31|
-|11|[rootsongjc/envoy-handbook](https://github.com/rootsongjc/envoy-handbook)|Envoy 基础教程 - https://jimmysong.io/envoy-handbook/|61|2022-05-02|2022-03-01|
-|12|[rootsongjc/developer-advocacy-handbook](https://github.com/rootsongjc/developer-advocacy-handbook)|开发者布道手册 - https://jimmysong.io/developer-advocacy-handbook/|33|2022-03-25|2022-03-15|
-|13|[tomstillcoding/tomstillcoding.github.io](https://github.com/tomstillcoding/tomstillcoding.github.io)|🎙️这是一个通过 jekyll + GitHub Pages 搭建的个人免费博客，可以通过 fork + 改造 + 用 Typora 编写文章的方法，打造你的个人博客。特点是方便、快捷，从搭建到发布第一篇文章、访问，3分钟内解决，甚至不用写任何一行代码，博客网页内容完全自定义、无广告、无注册，各种插件免费安装！|29|2022-05-01|2022-03-26|
-|14|[easyhappy/travel-coding](https://github.com/easyhappy/travel-coding)|公众号: 漫步coding, 一个分享数据库、算法、架构一些心得的公众号|28|2022-07-10|2022-03-20|
+|1|[httpsok/httpsok](https://github.com/httpsok/httpsok)|🔥🔥🔥 一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt|742|2024-06-27|2024-01-12|
+|2|[liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource)|LLM全栈优质资源汇总|268|2024-07-26|2023-08-27|
+|3|[LLM-Red-Team/free-api-hub](https://github.com/LLM-Red-Team/free-api-hub)|🥳 free-api系列项目集合共享资源，快来PR！|130|2024-05-08|2024-04-02|
+|4|[Lynricsy/HyperADRules](https://github.com/Lynricsy/HyperADRules)|HyperADRules，一个集合众家之长的、强力去广告的规则|67|2024-07-27|2024-03-10|
+|5|[KDXF-BOOM/studentpad-research](https://github.com/KDXF-BOOM/studentpad-research)|科大讯飞AI学习机破解安装第三方应用教程（持续更新）|47|2024-07-27|2024-01-14|
+|6|[zc360/Xiaomi-ax3000t-openwrt](https://github.com/zc360/Xiaomi-ax3000t-openwrt)|适用于小米ax3000t的openwrt固件，也可修改配置文件用于其他任何支持openwrt的设备，附带刷入教程和刷回小米官方固件教程。|43|2024-07-15|2023-12-29|
+|7|[afosne/DNS-Unlock](https://github.com/afosne/DNS-Unlock)|加速网络解析速度，解锁Netflix、hulu、disney、YouTube、telegram，Instagram，Facebook等网页|40|2024-05-08|2024-04-12|
+|8|[frontend-winter/chatgpt-share-server](https://github.com/frontend-winter/chatgpt-share-server)|chatgpt-share-server 在线预览地址|38|2024-07-24|2024-03-31|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

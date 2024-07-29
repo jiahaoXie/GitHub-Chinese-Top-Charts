@@ -1,21 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > C#
-<sub>数据更新: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)|PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等|6070|2022-07-22|2021-12-24|
-|2|[Isayama-Kagura/TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator)|一款Galgame文本提取和翻译的工具|114|2022-04-16|2021-09-21|
-|3|[Deali-Axy/StarBlog](https://github.com/Deali-Axy/StarBlog)|☀☀支持Markdown导入的博客。后端基于最新的.Net6和Asp.Net Core框架，遵循RESTFul接口规范，前端基于Vue+ElementUI开发，可作为 .Net Core 入门项目学习~|105|2022-07-27|2022-02-15|
-|4|[DDWSdwqdq/VNREX](https://github.com/DDWSdwqdq/VNREX)|GAL翻译器、离线OCR、离线TTS|51|2022-04-14|2021-12-27|
-|5|[huanlin/LearningNotes](https://github.com/huanlin/LearningNotes)|學習筆記，主要是 C# 與 .NET 技術。|48|2022-04-21|2022-02-08|
-|6|[nilaoda/OneDriveShareLinkParser](https://github.com/nilaoda/OneDriveShareLinkParser)|从OneDrive分享链接获取并推送下载地址到IDM以进行批量下载. Push To IDM.|27|2022-02-19|2022-02-10|
-|7|[CnGal/CnGalWebSite](https://github.com/CnGal/CnGalWebSite)|CnGal是一个非营利性的，立志于收集整理国内制作组创作的中文Galgame/AVG的介绍、攻略、评测、感想等内容的资料性质的网站。|27|2022-07-23|2021-12-06|
-|8|[Zhao-666/CodeFPS](https://github.com/Zhao-666/CodeFPS)|Use Unity3D engine to develop a FPS game that imition COD4 Traing Area. 使用Unity引擎实现的一款FPS游戏，实现《使命召唤4》训练靶场关卡|18|2022-02-13|2021-10-12|
-|9|[liamwang/geekgist](https://github.com/liamwang/geekgist)|『.NET 大牛之路』课程实战项目，一个电子书分享网站|9|2022-05-19|2021-10-21|
-|10|[yui-10497108108111/MD-CN-Translator](https://github.com/yui-10497108108111/MD-CN-Translator)|游戏王 master duel 翻译工具|7|2022-02-23|2022-01-23|
-|11|[xiuluo211314/Note163Checkin](https://github.com/xiuluo211314/Note163Checkin)|本项目是基于Github Actions的有道云笔记每日定时任务签到（主要重写了项目Note163Checkin ）。每日可新增30M+存储空间。|4|2022-07-24|2022-07-14|
+|1|[StarfireLab/SharpWeb](https://github.com/StarfireLab/SharpWeb)|一个浏览器数据（密码 历史记录 Cookie 书签 下载记录）的导出工具，支持主流浏览器。|510|2024-07-15|2023-10-09|
+|2|[unity3d-jp/Project_TCC](https://github.com/unity3d-jp/Project_TCC)|TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.|499|2024-04-30|2024-02-08|
+|3|[anjoy8/BCVP.Net8](https://github.com/anjoy8/BCVP.Net8)|ASP.NET8.0入口与实战系列视频教程 配合代码|93|2024-04-15|2023-12-10|
+|4|[AtmoOmen/DailyRoutines](https://github.com/AtmoOmen/DailyRoutines)|Dalamud 插件 Daily Routines - 自动化小工具/易用性改动合集|76|2024-07-09|2024-01-14|
+|5|[lwwhb/CustomRenderPipelineTutorials](https://github.com/lwwhb/CustomRenderPipelineTutorials)|Unity6的自定义渲染管线教程|57|2024-06-27|2023-12-29|
+|6|[jxq1997216/AITranslator](https://github.com/jxq1997216/AITranslator)|使用大语言模型来翻译MTool导出的待翻译文件的图像化UI软件|50|2024-07-19|2024-05-18|
+|7|[239573049/FastGateway](https://github.com/239573049/FastGateway)|FastGateway 一个超级简单方便的网关，基于Kestrel+Yarp实现的网关。 支持动态配置路由，支持动态配置集群，支持动态配置HTTPS证书，无需重启即可使用。|42|2024-04-03|2024-01-21|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

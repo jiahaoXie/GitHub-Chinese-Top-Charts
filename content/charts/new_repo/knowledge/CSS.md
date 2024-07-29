@@ -1,29 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > CSS
-<sub>数据更新: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[yitd/wxkp](https://github.com/yitd/wxkp)|微信卡片分享链接在线制作工具|80|2022-05-30|2021-08-14|
-|2|[idinr/photography-blog](https://github.com/idinr/photography-blog)|photography blog generator - 摄影类静态博客生成器|64|2022-07-25|2022-05-23|
-|3|[calebman/girlfriend-gift-collection](https://github.com/calebman/girlfriend-gift-collection)|送给女朋友的礼物合集，生日/情人节/纪念日等，程序员的创意。|54|2022-02-11|2022-02-10|
-|4|[viewweiwu/v2ex-zhihu-theme](https://github.com/viewweiwu/v2ex-zhihu-theme)|v2ex 知乎 主题样式|48|2022-06-02|2021-12-06|
-|5|[UserZYF/zhang-light](https://github.com/UserZYF/zhang-light)|思源笔记的一款主题|43|2022-05-25|2022-02-11|
-|6|[bamboo512/ModernChineseDict](https://github.com/bamboo512/ModernChineseDict)|《现代汉语词典》第 7 版的 mdict/mdx 资源。|40|2022-04-08|2022-02-28|
-|7|[Zuoqiu-Yingyi/siyuan-theme-dark-plus](https://github.com/Zuoqiu-Yingyi/siyuan-theme-dark-plus)|思源笔记的一款双色主题(A bicolor theme of SiYuan Note)|22|2022-04-09|2021-12-24|
-|8|[arect/onedrive_blog](https://github.com/arect/onedrive_blog)|OneDrive/Blog 以OneDrive为储存的博客“引擎”|19|2022-07-26|2021-12-10|
-|9|[Dreamer-Paul/Hingle](https://github.com/Dreamer-Paul/Hingle)|🎈 一个简洁大气，含夜间模式的 Hexo 博客主题|18|2022-03-10|2021-10-24|
-|10|[HurryBy/lanzou-directlink](https://github.com/HurryBy/lanzou-directlink)|蓝奏云分享链接直链获取|16|2022-08-02|2022-07-26|
-|11|[houxinlin/one-blog](https://github.com/houxinlin/one-blog)|单页博客:http://www.houxinlin.com|10|2022-07-29|2021-10-20|
-|12|[choyy/Timeline-SY](https://github.com/choyy/Timeline-SY)|思源笔记时间线挂件|9|2022-07-05|2022-05-23|
-|13|[JimHans/uestc-uestx](https://github.com/JimHans/uestc-uestx)|The polymerization of all frequently-used UESTC online services.   电子科技大学 线上服务集合索引|9|2022-04-08|2022-01-17|
-|14|[UserZYF/Chrome-A4](https://github.com/UserZYF/Chrome-A4)|思源笔记的一个主题，chrome标签样式+A4纸张大小|8|2022-05-10|2022-04-10|
-|15|[UserZYF/blue-dog](https://github.com/UserZYF/blue-dog)|思源笔记的主题，蓝色|5|2022-05-29|2022-04-17|
-|16|[DoggyYao/css-html-demo](https://github.com/DoggyYao/css-html-demo)|css+html案例分享。对外公开，供大家下载。|4|2022-07-31|2022-05-16|
-|17|[QJvic/blog.gis1024.com](https://github.com/QJvic/blog.gis1024.com)|sample code of blog.gis1024.com   --------   gis1024.com博客屋的示例代码仓库|4|2022-05-14|2022-04-27|
-|18|[UserZYF/zhang-dark](https://github.com/UserZYF/zhang-dark)|一款思源笔记的夜间主题|4|2022-05-25|2022-03-11|
-|19|[limboy/bytetalk.fm](https://github.com/limboy/bytetalk.fm)|聊聊程序员的那些事|4|2022-05-30|2021-10-26|
+|1|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1282|2024-05-10|2023-12-11|
+|2|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |647|2024-07-27|2024-06-16|
+|3|[wyj0605/douban_library](https://github.com/wyj0605/douban_library)|豆瓣读书插件，自动查询图书馆的图书借阅信息。|60|2024-06-24|2024-02-07|
+|4|[lewton/bilibili-public](https://github.com/lewton/bilibili-public)|b站代码示例代码合集|44|2024-04-19|2023-08-16|
+|5|[Alanrk/hexo-theme-onenote](https://github.com/Alanrk/hexo-theme-onenote)|专注于提供良好的阅读体验的hexo博客主题|36|2024-07-15|2024-06-16|
+|6|[huzhicheng/fengzheng-blog](https://github.com/huzhicheng/fengzheng-blog)|一款简介的个人博客模板，使用 Hugo + Markdown |30|2024-06-25|2024-06-25|
+|7|[SEC-CAFE/handbook](https://github.com/SEC-CAFE/handbook)|安全手册，企业安全实践、攻防与安全研究知识库|19|2024-07-10|2023-11-22|
+|8|[wflac/theme-Mego](https://github.com/wflac/theme-Mego)|一款基于 Halo 的简约时尚的原创卡片式博客主题，炫酷的个人展示图，拥有 Banner 展示位、通知、侧边小卡片。|14|2024-06-06|2024-06-04|
+|9|[Hiroki-Sawada-y/Hiroki_Study](https://github.com/Hiroki-Sawada-y/Hiroki_Study)|个人学习笔记 obsidian|13|2024-05-27|2023-09-12|
+|10|[epoch-lab/cuit-guide](https://github.com/epoch-lab/cuit-guide)|CUIT 指南|9|2024-07-25|2024-07-15|
+|11|[WL2O2O/JavaU8G](https://github.com/WL2O2O/JavaU8G)|📚【Java面试通关秘籍】—— Java_Useful_8股文_Guide（听歌学Java），是备战Java面试与提升技术实力的一站式知识库。内容覆盖Java面试、算法、JavaSE、并发编程、JVM优化、MySQL、OS、中间件、微服务等核心知识点，并包含Spring全家桶及设计模式详解。欢迎关注、star，共同完善和分享！|7|2024-06-12|2023-12-06|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
