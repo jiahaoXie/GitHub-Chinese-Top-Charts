@@ -11,3 +11,10 @@
 参考资料：
 https://www.jianshu.com/p/b3506494ad98
 https://github.com/selfteaching/the-craft-of-selfteaching/issues/67
+
+# 备注
+* 数据结构和算法可学习：
+krahets/hello-algo
+
+* Java 知识可学习：
+doocs/advanced-java
